@@ -4,7 +4,7 @@
 
     #header{
         position: relative;
-        margin:20px 0;
+        margin:15px 0 20px;
     }
 
     #logo, #right-menu, #right-menu li{
@@ -29,13 +29,17 @@
     }
     #logo {
         vertical-align: middle !important;
+        font-size: 2.5em;
+        color: rgb(51, 122, 183);
+        padding-top: 10px;
     }
     /* ------------------------------------------------------ Header section End	 ------------------------------------------------------*/
 
 </style>
 
 <section id="header" class="navbar">
-    <img id="logo" src="http://www.omc.sg/assets/Uploads/logo.jpg" alt="logo"></a>
+    {{--<img id="logo" src="http://www.omc.sg/assets/Uploads/logo.jpg" alt="logo"></a>--}}
+    <span id="logo"><em>CG-Marine Logo</em></span>
     <ul id="right-menu" class="nav">
         <li><a href="{{ url('/') }}">HOME</a></li>
         <li><a href="{{ url('about') }}">ABOUT</a></li>

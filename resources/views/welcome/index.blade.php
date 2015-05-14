@@ -29,7 +29,8 @@
 <div class="container">
     <!-- <div id="content"> -->
     <section id="header" class="navbar">
-        <img id="logo" src="http://www.omc.sg/assets/Uploads/logo.jpg" alt="logo"></a>
+        {{--<img id="logo" src="http://www.omc.sg/assets/Uploads/logo.jpg" alt="logo"></a>--}}
+        <span id="logo"><em>CG-Marine Logo</em></span>
         <ul id="right-menu" class="nav">
             <li><a href="{{ url('/') }}">HOME</a></li>
             <li><a href="{{ url('about') }}">ABOUT</a></li>

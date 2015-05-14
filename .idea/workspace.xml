@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30137296-0760-48db-a342-664400f387c4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/welcome/prevtting.blade.php" />
-      <change type="DELETED" beforePath="D:\Laravels\cg\resources\views\common\servicesubmenu.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Laravels\cg\resources\views\welcome\prettying.blade.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome/about.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome/about.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome/consultancy.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome/consultancy.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome/delivery.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome/delivery.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/common/footer.blade.php" afterPath="$PROJECT_DIR$/resources/views/common/footer.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome/index.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome/management.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome/management.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/layout/master.blade.php" afterPath="$PROJECT_DIR$/resources/views/layout/master.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/index.css" afterPath="$PROJECT_DIR$/public/css/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/common/menu.blade.php" afterPath="$PROJECT_DIR$/resources/views/common/menu.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome/pilotage.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome/pilotage.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\Laravels\cg\public\css\about.css" afterPath="$PROJECT_DIR$/public/css/main.css" />
     </list>
     <ignored path="cg.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,8 +47,8 @@
       <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/welcome/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.73319757" vertical-offset="90" max-vertical-offset="4260">
-              <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+            <state vertical-scroll-proportion="0.305499" vertical-offset="810" max-vertical-offset="4290">
+              <caret line="32" column="54" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -70,8 +57,18 @@
       <file leaf-file-name="menu.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/common/menu.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.358974" vertical-offset="1009" max-vertical-offset="1770">
-              <caret line="51" column="62" selection-start-line="39" selection-start-column="7" selection-end-line="51" selection-end-column="62" />
+            <state vertical-scroll-proportion="-3.8461537" vertical-offset="1080" max-vertical-offset="1890">
+              <caret line="41" column="50" selection-start-line="40" selection-start-column="4" selection-end-line="41" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2770" max-vertical-offset="9810">
+              <caret line="108" column="0" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -111,13 +108,14 @@
         <option value="$PROJECT_DIR$/resources/views/welcome/prettying.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php" />
-        <option value="$PROJECT_DIR$/resources/views/common/menu.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/welcome/delivery.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/welcome/consultancy.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/welcome/management.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/welcome/pilotage.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/welcome/prevtting.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layout/master.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/common/menu.blade.php" />
+        <option value="$PROJECT_DIR$/public/css/index.css" />
         <option value="$PROJECT_DIR$/resources/views/welcome/index.blade.php" />
       </list>
     </option>
@@ -595,18 +593,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2770" max-vertical-offset="9810">
+          <caret line="108" column="0" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/common/menu.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.358974" vertical-offset="1009" max-vertical-offset="1770">
-          <caret line="51" column="62" selection-start-line="39" selection-start-column="7" selection-end-line="51" selection-end-column="62" />
+        <state vertical-scroll-proportion="-3.8461537" vertical-offset="1080" max-vertical-offset="1890">
+          <caret line="41" column="50" selection-start-line="40" selection-start-column="4" selection-end-line="41" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/welcome/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.73319757" vertical-offset="90" max-vertical-offset="4260">
-          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.305499" vertical-offset="810" max-vertical-offset="4290">
+          <caret line="32" column="54" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
           <folding />
         </state>
       </provider>
