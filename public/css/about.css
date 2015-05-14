@@ -54,7 +54,7 @@ div.sub a:hover{color:#FFFF00}
 div.yuyan{background:url(/img/topbg.gif) no-repeat right; height:30px; text-align:right; padding-right:30px; padding-top:20px;}
 div.yuyan span{padding:3px 10px; background:#0066CC; color:#fff; margin-right:20px;}
 
-div.nav{background:url(../images/menubg.gif) repeat-x; height:30px;}
+div.nav{background:url(/img/menubg.gif) repeat-x; height:30px;}
 div.nav ul{list-style:none; margin:0 auto; width:829px;}
 div.nav ul li.lion{background:#001f46; line-height:30px; float:left; font-weight:bold; padding:0 15px;}
 div.nav ul li.lion a{color:#fff; display:block}
@@ -76,7 +76,7 @@ div.submenu9{padding-left:670px;}
 
 /*首页左边*/
 div.zhici{padding-bottom:12px;}
-div.zhici h5{line-height:33px; padding-left:15px; font-size:12px; color:#036; background:url(../images/index_15.gif) no-repeat}
+div.zhici h5{line-height:33px; padding-left:15px; font-size:12px; color:#036; background:url(/img/index_15.gif) no-repeat}
 div.zhici_box{padding:3px 10px; border-left:1px solid #d7e3f2; border-right:1px solid #d7e3f2; line-height:20px; color:#666666}
 .zhichi_buttom{background:url(/img/index_zhichi_buttom.gif) no-repeat center top; height:7px; font-size:0px;}
 
@@ -103,28 +103,28 @@ div.movepic{background:url(/img/movepic_bg.gif) no-repeat; padding:10px 10px 10p
 
 /*首页右边*/
 div.main_about{padding-bottom:12px;}
-div.main_about h5{line-height:33px; padding-left:15px; font-size:12px; color:#036; background:url(../images/index_15.gif) no-repeat}
-div.main_about_box{padding:5px 10px;line-height:20px; color:#666666; background:url(../images/main_aboutbg.gif) no-repeat bottom}
+div.main_about h5{line-height:33px; padding-left:15px; font-size:12px; color:#036; background:url(/img/index_15.gif) no-repeat}
+div.main_about_box{padding:5px 10px;line-height:20px; color:#666666; background:url(/img/main_aboutbg.gif) no-repeat bottom}
 
 div.main_contact{padding-bottom:12px;}
-div.main_contact h5{line-height:33px; padding-left:15px; font-size:12px; color:#036; background:url(../images/index_15.gif) no-repeat}
+div.main_contact h5{line-height:33px; padding-left:15px; font-size:12px; color:#036; background:url(/img/index_15.gif) no-repeat}
 div.main_contact_box{padding:3px 10px; border-left:1px solid #d7e3f2; border-right:1px solid #d7e3f2; line-height:20px; color:#666666}
-div.main_contact_bottom{background:url(../images/index_zhichi_buttom.gif) no-repeat center top; height:7px; font-size:0px;}
+div.main_contact_bottom{background:url(/img/index_zhichi_buttom.gif) no-repeat center top; height:7px; font-size:0px;}
 
 
 /*内页左边样式*/
 div.leftmenu{padding-bottom:12px;}
 div.leftmenu h5{background:url(/img/sub_top.gif) no-repeat; line-height:30px; padding-left:45px; color:#FFFFFF; font-size:13px;}
 div.leftmenu ul{padding:5px 15px; list-style:none}
-div.leftmenu ul li{line-height:28px; background:url(../images/sub_inco.gif) no-repeat 13px; text-indent:30px; border-bottom:1px solid #ccc}
+div.leftmenu ul li{line-height:28px; background:url(/img/sub_inco.gif) no-repeat 13px; text-indent:30px; border-bottom:1px solid #ccc}
 /*内页右边样式*/
-div.title{border-bottom:1px solid #ccc; line-height:25px; font-size:16px; font-weight:bold; background:url(../images/title_inco.gif) no-repeat left center; color:#036; padding-left:20px;}
-div.title span.weizhi{font-size:12px; color:#999999; background:url(../images/weizhi_inco.gif) no-repeat left center; padding-left:15px; font-weight:normal; float:right}
+div.title{border-bottom:1px solid #ccc; line-height:25px; font-size:16px; font-weight:bold; background:url(/img/title_inco.gif) no-repeat left center; color:#036; padding-left:20px;}
+div.title span.weizhi{font-size:12px; color:#999999; background:url(/img/weizhi_inco.gif) no-repeat left center; padding-left:15px; font-weight:normal; float:right}
 div.content_all{line-height:22px; letter-spacing:1px; padding:10px;}
 div.content_all h3{text-align:center; font-size:13px; line-height:30px; color:#003399;border-bottom:1px dashed #ccc;}
 div.content_all h4{text-align:center; font-size:11px; line-height:20px; color: #494949; font-weight:normal;}
 ul.newslist{list-style:none;}
-ul.newslist li{text-align:left; background:url(../images/news_inco.gif) no-repeat 5px;line-height:28px; padding-left:15px; border-bottom:1px dashed #ccc}
+ul.newslist li{text-align:left; background:url(/img/news_inco.gif) no-repeat 5px;line-height:28px; padding-left:15px; border-bottom:1px dashed #ccc}
 div.fenye{line-height:30px; border-top:2px solid #f5f5f5; text-align:center; color:#333; clear:both; margin-top:10px; background:#F5F5F5}
 table.shiptable{width:100%;border:1px solid #c2dced; border-collapse:collapse; line-height:20px; letter-spacing:normal;}
 table.shiptable td{padding:3px; border:1px solid #c2dced; color:#333}
@@ -138,7 +138,7 @@ div.ship_end div.ship_info{width:310px; float:right; line-height:18px; color:#55
 div.ship_end div.ship_info h6{font-size:16px; color:#003366; padding-bottom:10px;}
 div.getback{clear:both; line-height:30px; margin-top:10px; border-top:1px solid #ccc; text-align:center}
 
-div.contact_txt{background:url(../images/about_bg.gif) no-repeat right bottom; color:#666666; font-family:Arial, Helvetica, sans-serif; letter-spacing:normal}
+div.contact_txt{background:url(/img/about_bg.gif) no-repeat right bottom; color:#666666; font-family:Arial, Helvetica, sans-serif; letter-spacing:normal}
 div.contact_txt p{border-bottom:1px dashed #adc1cb; margin-bottom:10px; padding-bottom:10px; border-bottom:3px solid #000;}
 
 table.message{width:674px;border:1px solid #c2dced; border-collapse:collapse; line-height:24px;letter-spacing:normal; color:#003366; border-top:3px solid #3f78a0;}

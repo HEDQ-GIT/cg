@@ -52,4 +52,29 @@ class WelcomeController extends Controller {
 	{
 		return view('welcome.contact');
 	}
+
+	public function prettying()
+	{
+		return view('welcome.prettying');
+	}
+
+	public function consultancy()
+	{
+		return view('welcome.consultancy');
+	}
+
+	public function delivery()
+	{
+		return view('welcome.delivery');
+	}
+
+	public function pilotage()
+	{
+		return view('welcome.pilotage');
+	}
+
+	public function management()
+	{
+		return view('welcome.management');
+	}
 }

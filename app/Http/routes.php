@@ -25,3 +25,10 @@ get('service', 'WelcomeController@service');
 get('partner', 'WelcomeController@partner');
 get('contact', 'WelcomeController@contact');
 
+get('service/prettying', 'WelcomeController@prettying');
+get('service/consultancy', 'WelcomeController@consultancy');
+get('service/delivery', 'WelcomeController@delivery');
+get('service/pilotage', 'WelcomeController@pilotage');
+get('service/management', 'WelcomeController@management');
+
+
