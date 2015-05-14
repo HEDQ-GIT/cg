@@ -29,7 +29,6 @@
 
         <div class="clear"></div>
     </div>
-    @yield('main')
     @include('common.footer')
 
 </div>
