@@ -8,7 +8,7 @@
     //-->
 </script>
 <div id="footer">
-    <div id="footer_banquan"><a href="about.asp?pclassid=26">About Us</a>   /   <a href="about.asp?pclassid=34">Ship Fleet</a>   /   <a href="about.asp?pclassid=40">Culture</a>   /   <a href="about.asp?pclassid=43"> Enactment</a>   /   <a href="contact.asp">Contact Us</a><br />
+    <div id="footer_banquan"><a href="{{ url('about') }}">About Us</a>   /   <a href={{ url('service') }}>Our Services</a>   /   <a href={{ url('partner') }}>Our Partners</a>   /   <a href={{ url('contact') }}> Contact Us</a><br />
         <img src="/img/cp.gif" />
     </div>
     {{--<div id="footer_link">--}}

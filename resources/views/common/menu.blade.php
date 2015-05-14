@@ -7,11 +7,11 @@
         <!--主菜单开始-->
         <div class="nav">
             <ul>
-                <li id="nav1" onmouseover="showmenu('nav1')" class="lion"><a href="index.asp">Home</a></li>
-                <li id="nav2" onmouseover="showmenu('nav2')" class="lioff"><a href="about.asp?pclassid=25">About Us</a></li>
-                <li id="nav3" onmouseover="showmenu('nav3')" class="lioff"><a href="about.asp?pclassid=26">Our Services</a></li>
-                <li id="nav5" onmouseover="showmenu('nav5')" class="lioff"><a href="about.asp?pclassid=34">Our Partners</a></li>
-                <li id="nav6" onmouseover="showmenu('nav6')" class="lioff"><a href="about.asp?pclassid=37">Contact Us</a></li>
+                <li id="nav1" onmouseover="showmenu('nav1')" class="lion"><a href={{ url('/') }}>Home</a></li>
+                <li id="nav2" onmouseover="showmenu('nav2')" class="lioff"><a href={{ url('about') }}>About Us</a></li>
+                <li id="nav3" onmouseover="showmenu('nav3')" class="lioff"><a href={{ url('service') }}>Our Services</a></li>
+                <li id="nav5" onmouseover="showmenu('nav5')" class="lioff"><a href={{ url('partner') }}>Our Partners</a></li>
+                <li id="nav6" onmouseover="showmenu('nav6')" class="lioff"><a href={{ url('contact') }}>Contact Us</a></li>
             </ul>
         </div>
         <!--主菜单结束-->

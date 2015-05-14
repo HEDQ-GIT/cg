@@ -40,7 +40,9 @@ class WelcomeController extends Controller {
 
 	public function service()
 	{
-		return view('welcome.service');
+//		return view('welcome.service');
+		return view('welcome.prettying');
+
 	}
 
 	public function partner()
