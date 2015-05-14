@@ -1,36 +1,54 @@
-<div id="header">
-    <div class="logo"><img src="/img/log0.gif" /></div>
-    <div class="topmenu">
-        <div class="yuyan">
-            {{--<span>ENGLISH</span><a href="../">简体中文</a>--}}
-        </div>
-        <!--主菜单开始-->
-        <div class="nav">
-            <ul>
-                <li id="nav1" onmouseover="showmenu('nav1')" class="lion"><a href={{ url('/') }}>Home</a></li>
-                <li id="nav2" onmouseover="showmenu('nav2')" class="lioff"><a href={{ url('about') }}>About Us</a></li>
-                <li id="nav3" onmouseover="showmenu('nav3')" class="lioff"><a href={{ url('service') }}>Our Services</a></li>
-                <li id="nav5" onmouseover="showmenu('nav5')" class="lioff"><a href={{ url('partner') }}>Our Partners</a></li>
-                <li id="nav6" onmouseover="showmenu('nav6')" class="lioff"><a href={{ url('contact') }}>Contact Us</a></li>
+<style>
+
+    /* ------------------------------------------------------ Header section start	 ------------------------------------------------------*/
+
+    #header{
+        position: relative;
+        margin:20px 0;
+    }
+
+    #logo, #right-menu, #right-menu li{
+        display: inline-block;
+    }
+
+    #right-menu{
+        position: absolute;
+        right:0;
+        z-index:99;
+        -webkit-transform: translate3d(0, 50%, 0);
+        transform: translate3d(0, 50%, 0);
+    }
+
+    #right-menu li{
+        font-size: 1.2em;
+        color: #333;
+    }
+
+    ul.nav {
+        margin-top: 0 !important;
+    }
+    #logo {
+        vertical-align: middle !important;
+    }
+    /* ------------------------------------------------------ Header section End	 ------------------------------------------------------*/
+
+</style>
+
+<section id="header" class="navbar">
+    <img id="logo" src="http://www.omc.sg/assets/Uploads/logo.jpg" alt="logo"></a>
+    <ul id="right-menu" class="nav">
+        <li><a href="{{ url('/') }}">HOME</a></li>
+        <li><a href="{{ url('about') }}">ABOUT</a></li>
+        <li class="dropdown"><a href="{{ url('service') }}" class="dropdown-toggle" data-toggle="dropdown">SERVICES <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+                <li><a href="{{ url('service/prevtting') }}">Prevtting</a></li>
+                <li><a href="{{ url('service/consultancy') }}">Consultancy</a></li>
+                <li><a href="{{ url('service/delivery') }}">Delivery</a></li>
+                <li><a href="{{ url('service/pilotage') }}">Pilotage</a></li>
+                <li><a href="{{ url('service/management') }}">Management</a></li>
             </ul>
-        </div>
-        <!--主菜单结束-->
-    </div>
-    <!--子菜单开始-->
-    <div class="sub">
-        <div class="submenu1 block" id="nav1_"></div>
-        <div class="submenu2 none" id="nav2_"></div>
-        <div class="submenu3 none" id="nav3_">
-            <ul>
-                <li><a href={{ url('service/prettying') }}>Prettying</a></li>
-                <li><a href={{ url('service/consultancy') }}>Consultancy</a></li>
-                <li><a href={{ url('service/delivery') }}>Delivery</a></li>
-                <li><a href={{ url('service/pilotage') }}>Pilotage</a></li>
-                <li><a href={{ url('service/management') }}>Management</a></li>
-            </ul>
-        </div>
-        <div class="submenu5 none" id="nav5_"></div>
-        <div class="submenu6 none" id="nav6_"></div>
-    </div>
-    <!--子菜单结束-->
-</div>
+        </li>
+        <li><a href="{{ url('partner') }}">PARTNERS</a></li>
+        <li><a href="{{ url('contact') }}">CONTACT US</a></li>
+    </ul>
+</section>

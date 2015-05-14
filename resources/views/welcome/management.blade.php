@@ -1,18 +1,20 @@
 @extends('layout.master')
 
-@section('left-menu')
-    @include("common.servicesubmenu")
+@section('left-content')
+    <div class="col-md-5" style="margin-top: 0 !important; overflow: hidden;">
+        <div><img src="/img/about-overview.jpg" alt="about-overview" style="max-width: 100%;"/></div>
+    </div>
+
 @stop
 
 @section('right-content')
-    <div class="title"><span class="weizhi">Position:<a href="{{ url('/') }}">Home</a> > <a href={{ url('service') }}>Our Services</a> > <b class="blue">Management</b></span>Management</div>
-    <div class="content_all">
-        <P><BR>&nbsp;</P>
-        <P><BR><FONT 14px><STRONG>&nbsp;<FONT 14px>&nbsp;&nbsp;<FONT FONT-FAMILY: Roman New Times 14px;><FONT 14px> <FONT FONT-FAMILY: Roman New Times 14px;>KINGSHIP</FONT></FONT></FONT></FONT></STRONG></FONT><FONT FONT-FAMILY: Roman New Times 14px;><FONT style="FONT-FAMILY: " Roman New Times><FONT 12px>&nbsp;ltd main business scope covers ocean shipping, ship management, crew services, also engages in comprehensive technical management ,crew management, ship chartering, ship business, ship's insurance, shipping enterprise management and consulting services.<FONT FONT-FAMILY: Roman New Times 12px;>Our Company have excellent management and innovation ability, many experienced senior managers and crew.</FONT></FONT></FONT></FONT></P>
-        <P>&nbsp;</P>
-        <P>&nbsp;</P>
-        <P><IMG height=343 src="http://www.kingshipltd.com/html/uploadfile/20090403165817432.jpg" width=706 border=0 1px; POSITION: TOP: relative; LEFT: HEIGHT: WIDTH: -1; -2; 706px; 92px; 149px 189px 95px; 707px;></P>
-        {{--<P>&nbsp;&nbsp;&nbsp; <IMG src="http://www.kingshipltd.com/html/sysimage/file/doc.gif" border=0><A href="http://www.kingshipltd.com/html/uploadfile/20090403165130907.doc" target=_blank>金希普香港公司注册证书Microsoft Word 文档.doc</A></P>--}}
-        {{--<P>&nbsp;&nbsp;&nbsp; <IMG src="http://www.kingshipltd.com/html/sysimage/file/doc.gif" border=0><A href="http://www.kingshipltd.com/html/uploadfile/20090403165146354.doc" target=_blank>金希普南京公司营业执照 Microsoft Word 文档.doc</A></P>--}}
+    <div class="col-md-6" style="margin-top: 40px !important; margin-left: 30px !important;">
+        <div class="row-fluid">
+            <div class="span12" style="color:#BBBBBB">
+                <p>Service > Management > </p>
+                <h2 style="color: #0072B2">Overview of OMC</h2>
+                <p style="text-align: justify;">The Offshore Marine Centre (OMC), operated and managed by Jurong Port since 2011, is a purpose-built facility that offers an integrated suite of marine terminal-related services targeting the offshore and marine industry. <br><br> The OMC provides a common-user wharf infrastructure that allows companies to load and discharge heavy and oversized structures, modules and project cargoes in a safe and effective manner. It provides a ‘single-stop’ solution to companies that require a quick turnaround of vessel operations, open yard support services and end-to-end logistics solutions. <br><br> Leveraging on its extensive port management experience and world-class infrastructure, Jurong Port delivers a cost-effective, industry-specific solution that caters to the specialized requirements of users at OMC.</p>
+            </div>
+        </div>
     </div>
 @stop

@@ -55,9 +55,9 @@ class WelcomeController extends Controller {
 		return view('welcome.contact');
 	}
 
-	public function prettying()
+	public function prevtting()
 	{
-		return view('welcome.prettying');
+		return view('welcome.prevtting');
 	}
 
 	public function consultancy()
@@ -78,5 +78,10 @@ class WelcomeController extends Controller {
 	public function management()
 	{
 		return view('welcome.management');
+	}
+
+	public function copy()
+	{
+		return view('welcome.copy');
 	}
 }

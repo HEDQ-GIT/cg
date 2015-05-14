@@ -1,0 +1,286 @@
+@import url(http://fonts.googleapis.com/css?family=Cookie);
+
+html {
+	font-family: 'Lato', Calibri, Arial, sans-serif;
+	height:100%;
+}
+
+body {
+	left: 0;
+    margin: auto;
+    min-height: 100%;
+   	position:relative;
+   	color: #333;
+   	overflow-x: hidden;
+}
+
+h1{
+	text-align: center;
+	font-weight: 300;
+	font-family: 'Cookie';
+	font-size: 3.5em;
+}
+
+nav a {
+	position: relative;
+	display: inline-block;
+	margin: 15px 25px;
+	outline: none;
+	color: #fff;
+	text-decoration: none;
+	letter-spacing: 1px;
+	font-weight: 700;
+	text-shadow: 0 0 1px rgba(255,255,255,0.3);
+	font-size: 1em;
+}
+
+nav a:hover,
+nav a:focus {
+	outline: none;
+}
+
+p {
+	color: #777;
+	font-size: 14px;
+}
+
+
+
+/* ------------------------------------------------------ Header section start	 ------------------------------------------------------*/
+
+#header{
+	position: relative;
+	margin:20px 0;
+}
+
+#logo, #right-menu, #right-menu li{
+	display: inline-block;
+}
+
+#right-menu{
+	position: absolute;
+	right:0;
+	z-index:99;
+	-webkit-transform: translate3d(0, 50%, 0);
+  	transform: translate3d(0, 50%, 0);
+}
+
+#right-menu li{
+	font-size: 1.2em;
+	color: #333;
+}
+
+/* ------------------------------------------------------ Header section End	 ------------------------------------------------------*/
+
+/* ------------------------------------------------------ Slide section start	 ------------------------------------------------------*/
+.rslides {
+	list-style-type: none;
+    position: relative;
+	list-style: none;
+	overflow: hidden;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+.rslides li {
+    transform: translateZ(0);
+    float: left;
+    text-align: center;
+    display: block;
+    margin: 0;
+    -webkit-backface-visibility: hidden;
+	position: absolute;
+	display: none;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+}
+
+.rslides li:first-child {
+  position: relative;
+  display: block;
+  float: left;
+}
+
+.image{
+	width: 100%;
+	height: 360px;
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.rslides h1{
+	font-family: 'Clicker Script', cursive;
+	font-weight: normal;
+	font-size: 4em;
+	padding-left: 10px;
+	text-shadow: 2px 2px 4px rgba(0,0,0,0.4);
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	color: white;
+	text-align: center;
+	top: 30%;
+	left: 50%;
+	z-index: 2;
+	-webkit-transform: translate3d(-50%,-50%,0);
+	transform: translate3d(-50%,-50%,0);
+}
+
+.rslides span{
+	font-family: 'Lato', Calibri, Arial, sans-serif;
+	font-size: 40%;
+	font-weight: 300;
+	margin-top: 15px;
+  	display: block;
+}
+
+.rslides h6{
+	position: absolute;
+	top: 60%;
+	left: 50%;
+	z-index: 2;
+	font-size: 1.8em;
+	font-weight: 300;
+	text-align: center;
+	color: white;
+	-webkit-transform: translate3d(-50%,-50%,0);
+	transform: translate3d(-50%,-50%,0);
+}
+
+
+/* ------------------------------------------------------ Slide section end	 ------------------------------------------------------*/
+
+
+/* ------------------------------------------------------ Info section start	 ------------------------------------------------------*/
+
+#info{
+	position: relative;
+}
+
+#about-left{
+	width: 75%;
+}
+
+.tabs label{
+	box-sizing: initial !important;
+	margin:0 !important;
+}
+
+#about-right{
+	width: 23%;
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+#about-right label{
+	background: #337ab7;
+	background: -moz-linear-gradient(top, #337ab7 0%, #34AADC 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#337ab7), color-stop(100%,#34AADC));
+	background: -webkit-linear-gradient(top, #337ab7 0%,#34AADC 100%);
+	background: -o-linear-gradient(top, #337ab7 0%,#34AADC 100%);
+	background: -ms-linear-gradient(top, #337ab7 0%,#34AADC 100%);
+	background: linear-gradient(top, #337ab7 0%,#34AADC 100%);
+	font-size: 15px;
+	line-height: 40px;
+	height: 40px;
+	position: relative;
+	padding: 0 20px;
+    float: left;
+	display: block;
+	width: 100%;
+	color: #333;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-align: center;
+	text-shadow: 1px 1px 1px rgba(255,255,255,0.3);
+    border-radius: 3px 3px 0 0;
+    box-shadow: 2px 0 2px rgba(0,0,0,0.1), -2px 0 2px rgba(0,0,0,0.1);
+}
+
+#about-right .content{
+	height: initial !important;
+}
+
+#about-right ul{
+	list-style-type: none;
+	padding: 15px;
+}
+
+#email, #phone, #addr, #fax {
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+
+p.info-title {
+  color: #FF5E3A !important;
+}
+
+p.info-content, p.info-title {
+  margin-bottom: 5px !important;
+}
+
+/* ------------------------------------------------------ info section end	 ------------------------------------------------------*/
+
+/* ------------------------------------------------------ footer section start	 ------------------------------------------------------*/
+
+#footer{
+	width: 100%;
+	background-color: #4A4A4A;
+}
+
+#footer > p{
+	width: 100%;
+	padding:15px;
+	margin: 0;
+	color: white;
+	text-align:center;
+	font-size: 12px;
+	font-weight: 100;
+}
+
+#footer a{
+	color: #FF5E3A !important;
+}
+
+/* ------------------------------------------------------ footer section end	 ------------------------------------------------------*/
+
+
+/* ------------------------------------------------------ client section start	 ------------------------------------------------------*/
+
+#partner{
+	margin: 60px 0;
+}
+
+#partner ul{
+	list-style: none;
+}
+
+#partner ul li{
+	display: inline-block;
+}
+
+/* ------------------------------------------------------ client section end	 ------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

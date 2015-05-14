@@ -1,22 +1,31 @@
-<script   language="javascript"   type="text/javascript">
-    <!--
-    function   MM_jumpMenu(targ,selObj,restore){   //v3.0
-        eval(targ+".open('"+selObj.options[selObj.selectedIndex].value+"')");
-        //(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
-        if  (restore)  selObj.selectedIndex=0;
+<style>
+
+    /* ------------------------------------------------------ footer section start	 ------------------------------------------------------*/
+
+    #footer{
+        width: 100%;
+        background-color: #4A4A4A;
     }
-    //-->
-</script>
-<div id="footer">
-    <div id="footer_banquan"><a href="{{ url('about') }}">About Us</a>   /   <a href={{ url('service') }}>Our Services</a>   /   <a href={{ url('partner') }}>Our Partners</a>   /   <a href={{ url('contact') }}> Contact Us</a><br />
-        <img src="/img/cp.gif" />
-    </div>
-    {{--<div id="footer_link">--}}
-        {{--<select name="jumpMenu" id="jumpMenu" onchange="MM_jumpMenu('window',this,0)">--}}
-            {{--<option>More Links...</option>--}}
 
-            {{--<option value="http://www.chinashippinginfo.net/">中国海运信息网</option>--}}
+    #footer > p{
+        width: 100%;
+        padding:15px;
+        margin: 0;
+        color: white;
+        text-align:center;
+        font-size: 12px;
+        font-weight: 100;
+    }
 
-        {{--</select>--}}
-    {{--</div>--}}
-</div>
+    #footer a{
+        color: #FF5E3A !important;
+    }
+
+    /* ------------------------------------------------------ footer section end	 ------------------------------------------------------*/
+
+</style>
+
+<section id="footer">
+    <p id="copy">Copyright © 2014 CG-Marine Pte. Ltd. <br/> <a href="">Designed by Ekoo Lab<a></p>
+</section>
+<script src="js/wow.min.js"></script>
