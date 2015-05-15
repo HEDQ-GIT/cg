@@ -13,26 +13,7 @@
 <body>
 {{--<div class="container">--}}
 <div id="content">
-    {{--<section id="header" class="navbar">--}}
-        {{--<span id="logo"><em>CG-Marine Logo</em></span>--}}
-        {{--<ul id="right-menu" class="nav">--}}
-            {{--<li><a href="./Home » Offshore Marine Centre_files/Home » Offshore Marine Centre.html">HOME</a></li>--}}
-            {{--<li class="dropdown"><a href="" class="dropdown-toggle" data-toggle="dropdown">ABOUT</a></li>--}}
-            {{--<li class="dropdown"><a href="" class="dropdown-toggle" data-toggle="dropdown">SERVICES <b class="caret"></b></a>--}}
-                {{--<ul class="dropdown-menu">--}}
-                    {{--<li><a href="">Prevtting</a></li>--}}
-                    {{--<li><a href="">Consultancy</a></li>--}}
-                    {{--<li><a href="">Delivery</a></li>--}}
-                    {{--<li><a href="">Pilotage</a></li>--}}
-                    {{--<li><a href="">Management</a></li>--}}
-                {{--</ul>--}}
-            {{--</li>--}}
-            {{--<li><a href="">PARTNERS</a></li>--}}
-            {{--<li><a href="">CONTACT US</a></li>--}}
-        {{--</ul>--}}
-    {{--</section>--}}
     <section id="header" class="navbar">
-        {{--<img id="logo" src="http://www.omc.sg/assets/Uploads/logo.jpg" alt="logo"></a>--}}
         <span id="logo"><em>CG-Marine Logo</em></span>
         <ul id="right-menu" class="nav">
             <li><a href="{{ url('/') }}">HOME</a></li>
@@ -50,6 +31,25 @@
             <li><a href="{{ url('contact') }}">CONTACT US</a></li>
         </ul>
     </section>
+    {{--<section id="header" class="navbar">--}}
+        {{--<img id="logo" src="http://www.omc.sg/assets/Uploads/logo.jpg" alt="logo"></a>--}}
+        {{--<span id="logo"><em>CG-Marine Logo</em></span>--}}
+        {{--<ul id="right-menu" class="nav">--}}
+            {{--<li><a href="{{ url('/') }}">HOME</a></li>--}}
+            {{--<li><a href="{{ url('about') }}">ABOUT</a></li>--}}
+            {{--<li class="dropdown"><a href="{{ url('service') }}" class="dropdown-toggle" data-toggle="dropdown">SERVICES <b class="caret"></b></a>--}}
+                {{--<ul class="dropdown-menu">--}}
+                    {{--<li><a href="{{ url('service/prevtting') }}">Prevtting</a></li>--}}
+                    {{--<li><a href="{{ url('service/consultancy') }}">Consultancy</a></li>--}}
+                    {{--<li><a href="{{ url('service/delivery') }}">Delivery</a></li>--}}
+                    {{--<li><a href="{{ url('service/pilotage') }}">Pilotage</a></li>--}}
+                    {{--<li><a href="{{ url('service/management') }}">Management</a></li>--}}
+                {{--</ul>--}}
+            {{--</li>--}}
+            {{--<li><a href="{{ url('partner') }}">PARTNERS</a></li>--}}
+            {{--<li><a href="{{ url('contact') }}">CONTACT US</a></li>--}}
+        {{--</ul>--}}
+    {{--</section>--}}
 
     <section id="contact">
         <div class="row wrapper">
