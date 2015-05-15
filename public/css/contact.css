@@ -46,10 +46,36 @@ p {
 
 /* ------------------------------------------------------ Header section start	 ------------------------------------------------------*/
 
+/*#header{*/
+	/*width: 80%;*/
+	/*position: relative;*/
+	/*margin:20px auto;*/
+/*}*/
+
+/*#logo, #right-menu, #right-menu li{*/
+	/*display: inline-block;*/
+/*}*/
+
+/*#right-menu{*/
+	/*position: absolute;*/
+	/*right:0;*/
+	/*z-index:99;*/
+	/*-webkit-transform: translate3d(0, 50%, 0);*/
+  	/*transform: translate3d(0, 50%, 0);*/
+/*}*/
+
+/*#right-menu li{*/
+	/*font-size: 1.2em;*/
+	/*color: #333;*/
+/*}*/
+
+/* ------------------------------------------------------ Header section End	 ------------------------------------------------------*/
+
+/* ------------------------------------------------------ Header section start	 ------------------------------------------------------*/
+
 #header{
-	width: 80%;
 	position: relative;
-	margin:20px auto;
+	margin:15px 0 20px;
 }
 
 #logo, #right-menu, #right-menu li{
@@ -61,7 +87,7 @@ p {
 	right:0;
 	z-index:99;
 	-webkit-transform: translate3d(0, 50%, 0);
-  	transform: translate3d(0, 50%, 0);
+	transform: translate3d(0, 50%, 0);
 }
 
 #right-menu li{
@@ -69,6 +95,15 @@ p {
 	color: #333;
 }
 
+ul.nav {
+	margin-top: 0 !important;
+}
+#logo {
+	vertical-align: middle !important;
+	font-size: 2.5em;
+	color: rgb(51, 122, 183);
+	padding-top: 10px;
+}
 /* ------------------------------------------------------ Header section End	 ------------------------------------------------------*/
 
 

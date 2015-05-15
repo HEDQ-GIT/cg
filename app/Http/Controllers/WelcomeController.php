@@ -1,5 +1,8 @@
 <?php namespace App\Http\Controllers;
 
+use Illuminate\Http\Request;
+use \Mail;
+
 class WelcomeController extends Controller {
 
 	/*
@@ -53,6 +56,26 @@ class WelcomeController extends Controller {
 	public function contact()
 	{
 		return view('welcome.contact');
+	}
+
+	public function email(Request $request)
+	{
+//        $email = 'he-dq@foxmail.com';
+		$email = 'niu2yue@gmail.com';
+		$name = '';
+		$subject = 'You hava a new customer!';
+
+		//content
+		$customName = $request->input('name');
+		$customEmail = $request->input('email');
+		$customMsg = $request->input('message');
+
+		$data = ['email' => $email, 'name' => $name, 'subject' => $subject,
+			'customName' => $customName, 'customEmail' => $customEmail, 'customMsg' => $customMsg];
+		Mail::send('emails.testmail', $data, function ($message) use ($data) {
+			$message->to($data['email'])->subject($data['subject']);
+		});
+		return 'Your email has been sent and we will serve you ASAP !';
 	}
 
 	public function prevtting()

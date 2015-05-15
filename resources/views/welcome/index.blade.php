@@ -4,7 +4,8 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
-    <title>Home » CG Marine</title>
+    <title>Home | CG-Marine</title>
+    <link rel="shortcut icon" type="image/x-icon" href="http://combadi.com/static/img/favicon.ico">
 
     <link rel="stylesheet" href="css/bootstrap.min.css" media="all">
     <link rel="stylesheet" href="css/index.css" media="all">

@@ -25,6 +25,8 @@ get('service', 'WelcomeController@service');
 get('partner', 'WelcomeController@partner');
 get('contact', 'WelcomeController@contact');
 
+post('contact/email/', 'WelcomeController@email');
+
 get('service/prevtting', 'WelcomeController@prevtting');
 get('service/consultancy', 'WelcomeController@consultancy');
 get('service/delivery', 'WelcomeController@delivery');

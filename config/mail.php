@@ -54,7 +54,11 @@ return [
 	|
 	*/
 
-	'from' => ['address' => null, 'name' => null],
+	/**
+	 * DQ-customized
+	 */
+	'from' => ['address' => 'info@ekoolab.com', 'name' => 'Ekoolab Mail'],
+
 
 	/*
 	|--------------------------------------------------------------------------

@@ -1,5 +1,9 @@
 @extends('layout.master')
 
+@section('title')
+    <title>Delivery | CG-Marine</title>
+@stop
+
 @section('left-content')
     <div class="col-md-5" style="margin-top: 0 !important; overflow: hidden;">
         <div><img src="/img/about-overview.jpg" alt="about-overview" style="max-width: 100%;"/></div>

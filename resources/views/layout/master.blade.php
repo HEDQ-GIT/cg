@@ -1,7 +1,8 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <title>Overview &raquo; Offshore Marine Centre</title>
+    @yield('title')
+    <link rel="shortcut icon" type="image/x-icon" href="http://combadi.com/static/img/favicon.ico">
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta charset="utf-8">
