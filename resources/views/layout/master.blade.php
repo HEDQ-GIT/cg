@@ -20,7 +20,9 @@
         }
 
         #content {
-            background-color: #141414 !important;
+            /*background-color: #141414 !important;*/
+            background-color: #ffffff !important;
+
             margin: 0 !important;
             padding: 0 !important;
         }

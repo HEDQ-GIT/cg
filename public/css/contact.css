@@ -1,0 +1,254 @@
+@import url(http://fonts.googleapis.com/css?family=Cookie);
+
+html {
+	font-family: 'Lato', Calibri, Arial, sans-serif;
+	height:100%;
+}
+
+body {
+	left: 0;
+    margin: auto;
+    min-height: 100%;
+   	position:relative;
+   	color: #333;
+   	overflow-x: hidden;
+}
+
+h1{
+	text-align: center;
+	font-weight: 300;
+	font-size: 2.5em;
+	margin: 15px 0;
+}
+
+nav a {
+	position: relative;
+	display: inline-block;
+	margin: 15px 25px;
+	outline: none;
+	color: #fff;
+	text-decoration: none;
+	letter-spacing: 1px;
+	font-weight: 700;
+	text-shadow: 0 0 1px rgba(255,255,255,0.3);
+	font-size: 1em;
+}
+
+nav a:hover,
+nav a:focus {
+	outline: none;
+}
+
+p {
+	color: #777;
+	font-size: 14px;
+}
+
+/* ------------------------------------------------------ Header section start	 ------------------------------------------------------*/
+
+#header{
+	width: 80%;
+	position: relative;
+	margin:20px auto;
+}
+
+#logo, #right-menu, #right-menu li{
+	display: inline-block;
+}
+
+#right-menu{
+	position: absolute;
+	right:0;
+	z-index:99;
+	-webkit-transform: translate3d(0, 50%, 0);
+  	transform: translate3d(0, 50%, 0);
+}
+
+#right-menu li{
+	font-size: 1.2em;
+	color: #333;
+}
+
+/* ------------------------------------------------------ Header section End	 ------------------------------------------------------*/
+
+
+/* ------------------------------------------------------ footer section start	 ------------------------------------------------------*/
+
+#footer{
+	width: 100%;
+	background-color: #4A4A4A;
+}
+
+#footer > p{
+	width: 100%;
+	padding:15px;
+	margin: 0;
+	color: white;
+	text-align:center;
+	font-size: 12px;
+	font-weight: 100;
+}
+
+#footer a{
+	color: #FF5E3A !important;
+}
+
+/* ------------------------------------------------------ footer section end	 ------------------------------------------------------*/
+
+#contact{
+	background-color: #f6f7f0;
+	padding:50px 0;
+}
+
+#contact > .wrapper{
+	width: 80%;
+  	margin: 0 auto;
+	position: relative;
+	background-color: white;
+	-webkit-box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2);
+	-moz-box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2);
+	box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2);
+}
+
+.pagetitle {
+	text-align: left;
+	color: #337ab7;
+	font-size: 35px;
+	line-height: 40px;
+	margin-bottom: 30px;
+	font-weight: 300;
+}
+
+.note{
+	text-align: justify;
+}
+
+.styled-form label {
+  display: block;
+  font-family: "brandon-grotesque", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  letter-spacing: 1px;
+  font-size: 11px;
+  line-height: 20px;
+  text-transform: uppercase;
+  color: #4e4e4d;
+}
+
+.styled-form .field {
+  display: block;
+}
+
+.required {
+  text-transform: uppercase;
+  font-family: "brandon-grotesque", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  letter-spacing: 1px;
+  position: relative;
+  top: 7px;
+  font-size: 20px;
+  font-style: normal;
+  line-height: 1px;
+  color: #e8554e;
+}
+
+.styled-form input[type=text], .styled-form input[type=password], .styled-form textarea { 
+	background-color: #e1e1db;   
+	border: none; 
+	width: 100%; 
+	padding: 12px 14px; 
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box; 
+	box-sizing: border-box; 
+	-webkit-border-radius: 3px; 
+	-moz-border-radius: 3px; 
+	-ms-border-radius: 3px; 
+	-o-border-radius: 3px; 
+	border-radius: 3px; 
+}
+.styled-form input[type=text]:focus, 
+.styled-form textarea:focus { 
+	background-color: #fff9b2; 
+	border: none;
+}
+
+.submit-row {
+  text-align: right;
+}
+
+button[type=submit], .button {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  white-space: nowrap;
+  position: relative;
+  display: -moz-inline-stack;
+  display: inline-block;
+  vertical-align: middle;
+  zoom: 1;
+  font-family: "brandon-grotesque", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  letter-spacing: 2px;
+  font-size: 14px;
+  line-height: 14px;
+  text-transform: uppercase;
+  color: white;
+  background-color: #337ab7;
+  cursor: pointer;
+  border: none;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-transition: none 125ms ease-out;
+  -webkit-transition-delay: 0;
+  -moz-transition: none 125ms ease-out 0;
+  -o-transition: none 125ms ease-out 0;
+  transition: none 125ms ease-out 0;
+  -webkit-transition-property: background-color, color;
+  -moz-transition-property: background-color, color;
+  -o-transition-property: background-color, color;
+  transition-property: background-color, color;
+  padding: 10px 55px;
+}
+
+#contact-info > div {
+  text-transform: uppercase;
+  font-family: "brandon-grotesque", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  letter-spacing: 1px;
+  font-size: 12px;
+  padding: 20px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background: white url('../img/wave-pattern-white.png?1350403306') repeat;
+}
+
+#contact-info p.title{
+	color: #e8554e !important;
+}
+
+#contact-info p.detail {
+  margin-bottom: 30px;
+}
+
+#contact-info p.detail > a{
+	color:#777;
+	text-transform: initial;
+	font-weight: 100;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
