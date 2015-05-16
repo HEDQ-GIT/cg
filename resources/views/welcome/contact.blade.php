@@ -23,7 +23,7 @@
     <script>
         var emailUrl = '{{url("contact/email/")}}';
     </script>
-
+</head>
 <body ng-app="app" ng-controller="MainCtrl">
 <div class="container">
     <section id="header" class="navbar">
@@ -120,6 +120,8 @@
             </div>
         </div>
     </div>
+{{--    @include('flash::message')--}}
+
 </section>
 <section id="footer">
     <p id="copy">Copyright © 2014 CG-Marine Pte. Ltd. <br/> <a href="">Designed by Ekoo Lab<a></p>

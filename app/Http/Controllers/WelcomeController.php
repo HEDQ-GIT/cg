@@ -2,6 +2,7 @@
 
 use Illuminate\Http\Request;
 use \Mail;
+use Laracasts\Flash\Flash;
 
 class WelcomeController extends Controller {
 
@@ -60,8 +61,8 @@ class WelcomeController extends Controller {
 
 	public function email(Request $request)
 	{
-//        $email = 'he-dq@foxmail.com';
-		$email = 'niu2yue@gmail.com';
+        $email = 'he-dq@foxmail.com';
+//		$email = 'niu2yue@gmail.com';
 		$name = '';
 		$subject = 'You hava a new customer!';
 
@@ -75,6 +76,8 @@ class WelcomeController extends Controller {
 		Mail::send('emails.testmail', $data, function ($message) use ($data) {
 			$message->to($data['email'])->subject($data['subject']);
 		});
+//		FLASH::success('Welcome aboard!');
+
 		return 'Your email has been sent and we will serve you ASAP !';
 	}
 
