@@ -61,8 +61,8 @@ class WelcomeController extends Controller {
 
 	public function email(Request $request)
 	{
-        $email = 'he-dq@foxmail.com';
-//		$email = 'niu2yue@gmail.com';
+//        $email = 'he-dq@foxmail.com';
+		$email = 'niu2yue@gmail.com';
 		$name = '';
 		$subject = 'You hava a new customer!';
 
@@ -106,6 +106,10 @@ class WelcomeController extends Controller {
 		return view('welcome.management');
 	}
 
+	public function repaire()
+	{
+		return view('welcome.repaire');
+	}
 	public function copy()
 	{
 		return view('welcome.copy');

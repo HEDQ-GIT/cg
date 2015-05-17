@@ -32,6 +32,8 @@ get('service/consultancy', 'WelcomeController@consultancy');
 get('service/delivery', 'WelcomeController@delivery');
 get('service/pilotage', 'WelcomeController@pilotage');
 get('service/management', 'WelcomeController@management');
+get('service/repaire', 'WelcomeController@repaire');
+
 
 get('copy', 'WelcomeController@copy');
 
