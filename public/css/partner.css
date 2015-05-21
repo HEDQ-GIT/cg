@@ -107,6 +107,13 @@
     max-height: 178px;
     text-align: center;
     background-color: #D7D7D7;
+
+    /*bug*/
+    background-size: 100%;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    height: 136px;
 }
 .resource-image > img{
     width: 100%;

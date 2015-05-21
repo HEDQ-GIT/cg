@@ -80,8 +80,8 @@
             <div class="row">
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
                     <article class="featured-resource liEqualHeight">
-                        <div class="resource-image">
-                            <img src="/img/logo_1.gif">
+                        <div class="resource-image" style="background:url('/img/logo_1.gif');">
+                            {{--<img src="/img/logo_1.gif">--}}
                         </div>
                         <p class="resource-title component-headline">COSCO</p>
                         <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
@@ -92,8 +92,8 @@
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
                     <article class="featured-resource liEqualHeight">
-                        <div class="resource-image">
-                            <img src="/img/logo_2.jpg">
+                        <div class="resource-image" style="background:url('/img/logo_2.jpg');">
+                            {{--<img src="/img/logo_2.jpg">--}}
                         </div>
                         <p class="resource-title component-headline">FEOSO</p>
                         <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
@@ -104,8 +104,8 @@
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
                     <article class="featured-resource liEqualHeight" >
-                        <div class="resource-image">
-                            <img src="/img/logo_3.jpg">
+                        <div class="resource-image" style="background:url('/img/logo_3.jpg');">
+                            {{--<img src="/img/logo_3.jpg">--}}
                         </div>
                         <p class="resource-title component-headline">FENGHAI</p>
                         <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
@@ -116,8 +116,8 @@
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
                     <article class="featured-resource liEqualHeight">
-                        <div class="resource-image">
-                            <img src="/img/logo_4.jpg">
+                        <div class="resource-image" style="background:url('/img/logo_4.jpg');">
+                            {{--<img src="/img/logo_4.jpg">--}}
                         </div>
                         <p class="resource-title component-headline">EXXONMOBIL</p>
                         <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
@@ -128,8 +128,8 @@
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
                     <article class="featured-resource liEqualHeight">
-                        <div class="resource-image">
-                            <img src="/img/logo_index_1.png">
+                        <div class="resource-image" style="background:url('/img/logo_index_1.png');">
+                            {{--<img src="/img/logo_index_1.png">--}}
                         </div>
                         <p class="resource-title component-headline">ABS</p>
                         <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
@@ -140,8 +140,8 @@
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
                     <article class="featured-resource liEqualHeight">
-                        <div class="resource-image">
-                            <img src="/img/logo_index_2.jpg">
+                        <div class="resource-image" style="background:url('/img/logo_index_2.jpg');">
+                            {{--<img src="/img/logo_index_2.jpg">--}}
                         </div>
                         <p class="resource-title component-headline">CCS</p>
                         <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
@@ -152,8 +152,8 @@
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
                     <article class="featured-resource liEqualHeight">
-                        <div class="resource-image">
-                            <img src="/img/logo_index_3.png">
+                        <div class="resource-image" style="background:url('/img/logo_index_3.png');">
+                            {{--<img src="/img/logo_index_3.png">--}}
                         </div>
                         <p class="resource-title component-headline">RINA</p>
                         <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
@@ -164,8 +164,8 @@
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
                     <article class="featured-resource liEqualHeight">
-                        <div class="resource-image">
-                            <img src="/img/logo_index_4.gif">
+                        <div class="resource-image" style="background:url('/img/logo_index_4.gif');">
+                            {{--<img src="/img/logo_index_4.gif">--}}
                         </div>
                         <p class="resource-title component-headline">EAGLE</p>
                         <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
@@ -176,8 +176,8 @@
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
                     <article class="featured-resource liEqualHeight">
-                        <div class="resource-image">
-                            <img src="/img/logo_index_5.png">
+                        <div class="resource-image" style="background:url('/img/logo_index_5.png');">
+                            {{--<img src="/img/logo_index_5.png">--}}
                         </div>
                         <p class="resource-title component-headline">BP</p>
                         <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
@@ -188,8 +188,8 @@
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
                     <article class="featured-resource liEqualHeight">
-                        <div class="resource-image">
-                            <img src="/img/logo_15.jpg">
+                        <div class="resource-image" style="background:url('/img/logo_15.jpg');">
+                            {{--<img src="/img/logo_15.jpg">--}}
                         </div>
                         <p class="resource-title component-headline">CCCC</p>
                         <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
@@ -200,8 +200,8 @@
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
                     <article class="featured-resource liEqualHeight">
-                        <div class="resource-image">
-                            <img src="/img/logo_14.jpg">
+                        <div class="resource-image" style="background:url('/img/logo_14.jpg');">
+                            {{--<img src="/img/logo_14.jpg">--}}
                         </div>
                         <p class="resource-title component-headline">COSL</p>
                         <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
@@ -212,8 +212,8 @@
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
                     <article class="featured-resource liEqualHeight">
-                        <div class="resource-image">
-                            <img src="/img/logo_13.gif">
+                        <div class="resource-image" style="background:url('/img/logo_13.gif');">
+                            {{--<img src="/img/logo_13.gif">--}}
                         </div>
                         <p class="resource-title component-headline">CHEVRON</p>
                         <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
@@ -224,8 +224,8 @@
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
                     <article class="featured-resource liEqualHeight">
-                        <div class="resource-image">
-                            <img src="/img/logo_12.png">
+                        <div class="resource-image" style="background:url('/img/logo_12.png');">
+                            {{--<img src="/img/logo_12.png">--}}
                         </div>
                         <p class="resource-title component-headline">PAC MARINE</p>
                         <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
@@ -236,8 +236,8 @@
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
                     <article class="featured-resource liEqualHeight">
-                        <div class="resource-image">
-                            <img src="/img/logo_11.png">
+                        <div class="resource-image" style="background:url('/img/logo_11.png');">
+                            {{--<img src="/img/logo_11.png">--}}
                         </div>
                         <p class="resource-title component-headline">PSA</p>
                         <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
@@ -248,8 +248,8 @@
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
                     <article class="featured-resource liEqualHeight">
-                        <div class="resource-image">
-                            <img src="/img/logo_10.jpg">
+                        <div class="resource-image" style="background:url('/img/logo_10.jpg');">
+                            {{--<img src="/img/logo_10.jpg">--}}
                         </div>
                         <p class="resource-title component-headline">HARPS</p>
                         <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
