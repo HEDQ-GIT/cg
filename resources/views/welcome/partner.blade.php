@@ -246,6 +246,18 @@
                         </p>
                     </article>
                 </div>
+                <div class="list-item col-lg-4 col-md-4 col-sm-4">
+                    <article class="featured-resource liEqualHeight">
+                        <div class="resource-image">
+                            <img src="/img/logo_10.jpg">
+                        </div>
+                        <p class="resource-title component-headline">HARPS</p>
+                        <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
+                            visibility and help them thrive in a networked world where customers and employees have become increasingly
+                            empowered.
+                        </p>
+                    </article>
+                </div>
             </div>
         </article>
     </section>
