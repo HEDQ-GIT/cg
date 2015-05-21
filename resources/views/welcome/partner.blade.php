@@ -33,14 +33,15 @@
 <body>
 <div class="container">
     <section id="header" class="navbar">
-        <span id="logo"><em>CG-Marine Logo</em></span>
+        <img id="logo" style="height: 82px;" src="/img/logo.png" alt="logo">
+        {{--<span id="logo"><em>CG-Marine Logo</em></span>--}}
         <ul id="right-menu" class="nav">
             <li><a href="{{ url('/') }}">HOME</a></li>
             <li><a href="{{ url('about') }}">ABOUT</a></li>
             <li class="dropdown"><a href="{{ url('service') }}" class="dropdown-toggle" data-toggle="dropdown">SERVICES
                     <b class="caret"></b></a>
                 <ul class="dropdown-menu">
-                    <li><a href="{{ url('service/prevtting') }}">Prevtting</a></li>
+                    <li><a href="{{ url('service/prevetting') }}">Prevetting</a></li>
                     <li><a href="{{ url('service/consultancy') }}">Consultancy</a></li>
                     <li><a href="{{ url('service/delivery') }}">Delivery</a></li>
                     <li><a href="{{ url('service/pilotage') }}">Pilotage</a></li>
@@ -60,7 +61,7 @@
             <div class="image" style="background-image: url('/img/slider_1.jpg');">
             </div></li>
         <li id="rslides1_s1" class="">
-            <div class="image" style="background-image: url('/img/slider_2.jpg');">
+            <div class="image" style="background-image: url('/img/slider_3.jpg');">
             </div></li>
     </ul>
 
@@ -80,9 +81,9 @@
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
                     <article class="featured-resource liEqualHeight">
                         <div class="resource-image">
-                            <img src="http://upload.wikimedia.org/wikipedia/commons/4/48/EBay_logo.png">
+                            <img src="/img/logo_1.gif">
                         </div>
-                        <p class="resource-title component-headline">Partner Name</p>
+                        <p class="resource-title component-headline">COSCO</p>
                         <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
                             visibility and help them thrive in a networked world where customers and employees have become increasingly
                             empowered.
@@ -92,9 +93,9 @@
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
                     <article class="featured-resource liEqualHeight">
                         <div class="resource-image">
-                            <img src="http://upload.wikimedia.org/wikipedia/commons/4/48/EBay_logo.png">
+                            <img src="/img/logo_2.jpg">
                         </div>
-                        <p class="resource-title component-headline">Partner Name</p>
+                        <p class="resource-title component-headline">FEOSO</p>
                         <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
                             visibility and help them thrive in a networked world where customers and employees have become increasingly
                             empowered.
@@ -104,9 +105,9 @@
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
                     <article class="featured-resource liEqualHeight" >
                         <div class="resource-image">
-                            <img src="http://upload.wikimedia.org/wikipedia/commons/4/48/EBay_logo.png">
+                            <img src="/img/logo_3.jpg">
                         </div>
-                        <p class="resource-title component-headline">Partner Name</p>
+                        <p class="resource-title component-headline">FENGHAI</p>
                         <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
                             visibility and help them thrive in a networked world where customers and employees have become increasingly
                             empowered.
@@ -116,9 +117,9 @@
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
                     <article class="featured-resource liEqualHeight">
                         <div class="resource-image">
-                            <img src="http://upload.wikimedia.org/wikipedia/commons/4/48/EBay_logo.png">
+                            <img src="/img/logo_4.jpg">
                         </div>
-                        <p class="resource-title component-headline">Partner Name</p>
+                        <p class="resource-title component-headline">EXXONMOBIL</p>
                         <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
                             visibility and help them thrive in a networked world where customers and employees have become increasingly
                             empowered.
@@ -128,9 +129,9 @@
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
                     <article class="featured-resource liEqualHeight">
                         <div class="resource-image">
-                            <img src="http://upload.wikimedia.org/wikipedia/commons/4/48/EBay_logo.png">
+                            <img src="/img/logo_index_1.png">
                         </div>
-                        <p class="resource-title component-headline">Partner Name</p>
+                        <p class="resource-title component-headline">ABS</p>
                         <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
                             visibility and help them thrive in a networked world where customers and employees have become increasingly
                             empowered.
@@ -140,9 +141,105 @@
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
                     <article class="featured-resource liEqualHeight">
                         <div class="resource-image">
-                            <img src="http://upload.wikimedia.org/wikipedia/commons/4/48/EBay_logo.png">
+                            <img src="/img/logo_index_2.jpg">
                         </div>
-                        <p class="resource-title component-headline">Partner Name</p>
+                        <p class="resource-title component-headline">CCS</p>
+                        <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
+                            visibility and help them thrive in a networked world where customers and employees have become increasingly
+                            empowered.
+                        </p>
+                    </article>
+                </div>
+                <div class="list-item col-lg-4 col-md-4 col-sm-4">
+                    <article class="featured-resource liEqualHeight">
+                        <div class="resource-image">
+                            <img src="/img/logo_index_3.png">
+                        </div>
+                        <p class="resource-title component-headline">RINA</p>
+                        <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
+                            visibility and help them thrive in a networked world where customers and employees have become increasingly
+                            empowered.
+                        </p>
+                    </article>
+                </div>
+                <div class="list-item col-lg-4 col-md-4 col-sm-4">
+                    <article class="featured-resource liEqualHeight">
+                        <div class="resource-image">
+                            <img src="/img/logo_index_4.gif">
+                        </div>
+                        <p class="resource-title component-headline">EAGLE</p>
+                        <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
+                            visibility and help them thrive in a networked world where customers and employees have become increasingly
+                            empowered.
+                        </p>
+                    </article>
+                </div>
+                <div class="list-item col-lg-4 col-md-4 col-sm-4">
+                    <article class="featured-resource liEqualHeight">
+                        <div class="resource-image">
+                            <img src="/img/logo_index_5.png">
+                        </div>
+                        <p class="resource-title component-headline">BP</p>
+                        <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
+                            visibility and help them thrive in a networked world where customers and employees have become increasingly
+                            empowered.
+                        </p>
+                    </article>
+                </div>
+                <div class="list-item col-lg-4 col-md-4 col-sm-4">
+                    <article class="featured-resource liEqualHeight">
+                        <div class="resource-image">
+                            <img src="/img/logo_15.jpg">
+                        </div>
+                        <p class="resource-title component-headline">CCCC</p>
+                        <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
+                            visibility and help them thrive in a networked world where customers and employees have become increasingly
+                            empowered.
+                        </p>
+                    </article>
+                </div>
+                <div class="list-item col-lg-4 col-md-4 col-sm-4">
+                    <article class="featured-resource liEqualHeight">
+                        <div class="resource-image">
+                            <img src="/img/logo_14.jpg">
+                        </div>
+                        <p class="resource-title component-headline">COSL</p>
+                        <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
+                            visibility and help them thrive in a networked world where customers and employees have become increasingly
+                            empowered.
+                        </p>
+                    </article>
+                </div>
+                <div class="list-item col-lg-4 col-md-4 col-sm-4">
+                    <article class="featured-resource liEqualHeight">
+                        <div class="resource-image">
+                            <img src="/img/logo_13.gif">
+                        </div>
+                        <p class="resource-title component-headline">CHEVRON</p>
+                        <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
+                            visibility and help them thrive in a networked world where customers and employees have become increasingly
+                            empowered.
+                        </p>
+                    </article>
+                </div>
+                <div class="list-item col-lg-4 col-md-4 col-sm-4">
+                    <article class="featured-resource liEqualHeight">
+                        <div class="resource-image">
+                            <img src="/img/logo_12.png">
+                        </div>
+                        <p class="resource-title component-headline">PAC MARINE</p>
+                        <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
+                            visibility and help them thrive in a networked world where customers and employees have become increasingly
+                            empowered.
+                        </p>
+                    </article>
+                </div>
+                <div class="list-item col-lg-4 col-md-4 col-sm-4">
+                    <article class="featured-resource liEqualHeight">
+                        <div class="resource-image">
+                            <img src="/img/logo_11.png">
+                        </div>
+                        <p class="resource-title component-headline">PSA</p>
                         <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
                             visibility and help them thrive in a networked world where customers and employees have become increasingly
                             empowered.

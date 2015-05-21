@@ -27,14 +27,15 @@
 <body ng-app="app" ng-controller="MainCtrl">
 <div class="container">
     <section id="header" class="navbar">
-        <span id="logo"><em>CG-Marine Logo</em></span>
+        <img id="logo" style="height: 82px;" src="/img/logo.png" alt="logo">
+        {{--<span id="logo"><em>CG-Marine Logo</em></span>--}}
         <ul id="right-menu" class="nav">
             <li><a href="{{ url('/') }}">HOME</a></li>
             <li><a href="{{ url('about') }}">ABOUT</a></li>
             <li class="dropdown"><a href="{{ url('service') }}" class="dropdown-toggle" data-toggle="dropdown">SERVICES
                     <b class="caret"></b></a>
                 <ul class="dropdown-menu">
-                    <li><a href="{{ url('service/prevtting') }}">Prevtting</a></li>
+                    <li><a href="{{ url('service/prevetting') }}">Prevetting</a></li>
                     <li><a href="{{ url('service/consultancy') }}">Consultancy</a></li>
                     <li><a href="{{ url('service/delivery') }}">Delivery</a></li>
                     <li><a href="{{ url('service/pilotage') }}">Pilotage</a></li>

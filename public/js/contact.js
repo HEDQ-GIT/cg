@@ -10,9 +10,10 @@ app.controller('MainCtrl', function ($scope, $http) {
             headers : { 'Content-Type': 'application/x-www-form-urlencoded' }  // set the headers so angular passing info as form data (not request payload)
         }).success(function (data, status) {
             //$('<div class="alert alert-success" role="alert">'+data+'</div>').appendTo($('#contact'));
-            alert(data);
+            //alert(data);
         }).error(function (data, status) {
-            alert(data);
+            //alert(data);
         });
+        alert("Your email has been sent and we will serve you ASAP !");
     }
 })

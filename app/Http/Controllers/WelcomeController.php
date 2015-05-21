@@ -81,9 +81,9 @@ class WelcomeController extends Controller {
 		return 'Your email has been sent and we will serve you ASAP !';
 	}
 
-	public function prevtting()
+	public function prevetting()
 	{
-		return view('welcome.prevtting');
+		return view('welcome.prevetting');
 	}
 
 	public function consultancy()
