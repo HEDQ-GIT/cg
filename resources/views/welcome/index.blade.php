@@ -127,11 +127,11 @@
         {{--</div>--}}
         <ul>
             <li><div class="logo-image" style="background:url('/img/logo_index_1.png');"></div></li>
-            <li><div class="logo-image" style="background:url('/img/logo_index_2.jpg'); margin-left: 50px"></div></li>
+            <li><div class="logo-image" style="background:url('/img/logo_index_2.jpg'); "></div></li>
             <li><div class="logo-image" style="background:url('/img/logo_index_3.png');"></div></li>
             <li><div class="logo-image" style="background:url('/img/logo_index_4.gif');"></div></li>
             <li><div class="logo-image" style="background:url('/img/logo_index_5.png');"></div></li>
-
+            {{--margin-left: 50px--}}
             {{--<li><img src="/img/logo_index_2.jpg" alt=""></li>--}}
             {{--<li><img src="/img/logo_index_3.png" alt=""></li>--}}
             {{--<li><img src="/img/logo_index_4.gif" alt=""></li>--}}
