@@ -9,7 +9,6 @@
 
     <link rel="stylesheet" href="css/bootstrap.min.css" media="all">
     <link rel="stylesheet" href="css/index.css" media="all">
-    <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" type="text/css" href="css/style.css" />
 
     <script src="js/jquery-2.1.1.min.js"></script>
@@ -42,7 +41,7 @@
                     <li><a href="{{ url('service/delivery') }}">Delivery</a></li>
                     <li><a href="{{ url('service/pilotage') }}">Pilotage</a></li>
                     <li><a href="{{ url('service/management') }}">Management</a></li>
-                    <li><a href="{{ url('service/repaire') }}">Repaire</a></li>
+                    <li><a href="{{ url('service/repaire') }}">Repair</a></li>
                 </ul>
             </li>
             <li><a href="{{ url('partner') }}">PARTNERS</a></li>
@@ -121,18 +120,22 @@
     </section>
 
     <section id="partner">
+        {{--<div class="container">--}}
+            {{--<div class="row">--}}
+                {{--<div></div>--}}
+            {{--</div>--}}
+        {{--</div>--}}
         <ul>
-            <li><img src="/img/logo_index_1.png" alt=""></li>
-            <li><img src="/img/logo_index_2.jpg" alt=""></li>
-            <li><img src="/img/logo_index_3.png" alt=""></li>
-            <li><img src="/img/logo_index_4.gif" alt=""></li>
-            <li><img src="/img/logo_index_5.png" alt=""></li>
+            <li><div class="logo-image" style="background:url('/img/logo_index_1.png');"></div></li>
+            <li><div class="logo-image" style="background:url('/img/logo_index_2.jpg'); margin-left: 50px"></div></li>
+            <li><div class="logo-image" style="background:url('/img/logo_index_3.png');"></div></li>
+            <li><div class="logo-image" style="background:url('/img/logo_index_4.gif');"></div></li>
+            <li><div class="logo-image" style="background:url('/img/logo_index_5.png');"></div></li>
 
-            {{--<li><img src="http://www.gsktech.com.sg/_content/client/hamilton.jpg" alt=""></li>--}}
-            {{--<li><img src="http://www.gsktech.com.sg/_content/client/stengineering.jpg" alt=""></li>--}}
-            {{--<li><img src="http://www.gsktech.com.sg/_content/client/jll.jpg" alt=""></li>--}}
-            {{--<li><img src="http://www.gsktech.com.sg/_content/client/europace.jpg" alt=""></li>--}}
-            {{--<li><img src="http://www.gsktech.com.sg/_content/client/altitudealliance.jpg" alt=""></li>--}}
+            {{--<li><img src="/img/logo_index_2.jpg" alt=""></li>--}}
+            {{--<li><img src="/img/logo_index_3.png" alt=""></li>--}}
+            {{--<li><img src="/img/logo_index_4.gif" alt=""></li>--}}
+            {{--<li><img src="/img/logo_index_5.png" alt=""></li>--}}
         </ul>
     </section>
 </div>

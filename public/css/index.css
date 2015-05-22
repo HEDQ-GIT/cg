@@ -107,6 +107,7 @@ ul.nav {
 /*}*/
 /* ------------------------------------------------------ Header section End	 ------------------------------------------------------*/
 
+
 /* ------------------------------------------------------ Slide section start	 ------------------------------------------------------*/
 .rslides {
 	list-style-type: none;
@@ -294,16 +295,29 @@ p.info-content, p.info-title {
 
 #partner ul{
 	list-style: none;
+	padding: 0 !important;
 }
 
 #partner ul li{
 	display: inline-block;
-	margin: auto 25px;
+	margin: auto 10px;
 }
 
-#partner ul li img{
+/*#partner ul li img{*/
+	/*width: 150px;*/
+	/*height:90px;*/
+/*}*/
+
+.logo-image {
 	width: 150px;
-	height:90px;
+	height: 80px;
+	background-position: center center !important;
+	background-size: 100% !important;
+	background-size: contain !important;
+	background-repeat: no-repeat !important;
+	/*overflow: hidden;*/
+	/*max-height: 80px;*/
+	/*text-align: center;*/
 }
 /* ------------------------------------------------------ client section end	 ------------------------------------------------------*/
 

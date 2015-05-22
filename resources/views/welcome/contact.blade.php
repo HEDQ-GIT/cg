@@ -40,7 +40,7 @@
                     <li><a href="{{ url('service/delivery') }}">Delivery</a></li>
                     <li><a href="{{ url('service/pilotage') }}">Pilotage</a></li>
                     <li><a href="{{ url('service/management') }}">Management</a></li>
-                    <li><a href="{{ url('service/repaire') }}">Repaire</a></li>
+                    <li><a href="{{ url('service/repaire') }}">Repair</a></li>
                 </ul>
             </li>
             <li><a href="{{ url('partner') }}">PARTNERS</a></li>
@@ -95,28 +95,26 @@
             <div>
                 <p class="title">Email</p>
 
-                <p class="detail"><a href="mailto:info@combadi.com" title="Click to send us an email">info@cg-marine
+                <p class="detail"><a href="mailto:alanchen@combadi.com" title="Click to send us an email">alanchen@cg-marine
                         .com</a></p>
 
                 <p class="title">Telephone</p>
 
-                <p class="detail"><a href="tel:00306977447033" title="Click to call us">+65 8238 9341</a></>
+                <p class="detail"><a href="tel:00306977447033" title="Click to call us">+65 9107 3985</a></p>
                 <p class="title">Fax</p>
 
-                <p class="detail"><a href="skype:combaditravel?call" title="Click to call us on Skype">+65 8238 9341</a>
-                </p>
+                <p class="detail"><a href="tel:00306977447033" title="Click to call us">+65 9107 3985</a></p>
 
                 <p class="title">Address</p>
 
                 <p class="detail">
-                <address>
+                {{--<address>--}}
                     CG-Marine Ltd.<br>
-                    1 Kings Avenue<br>
-                    Singapore<br>
-                    #09-982<br>
-                    Singapore<br><br>
-                    Company No. 08714000
-                </address>
+                    10, Anson Road, <br>
+                    #26-04, <br>
+                    International Plaza, <br>
+                    Singapore 079903<br><br>
+                {{--</address>--}}
                 </p>
                 </dl>
             </div>
