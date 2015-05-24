@@ -37,6 +37,8 @@
     <link rel="stylesheet" href="http://www.omc.sg/themes/simple/css/custom.css"/>
     <link rel="stylesheet" href="http://www.omc.sg/themes/simple/css/style.css"/>
 
+    <link rel="stylesheet" href="/css/style.css"/>
+
     <script src="/js/jquery-2.1.1.min.js"></script>
     <script src="/js/bootstrap-dropdown.js"></script>
 

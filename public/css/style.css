@@ -143,3 +143,13 @@
 	padding-left: 15px;
 	border-left: 8px solid rgba(63,148,148, 0.1);
 }
+
+.left-img {
+	height: 270px !important;
+	background-position: top left !important;
+	background-size: 100% 100% !important;
+	background-repeat: no-repeat !important;
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+
+}

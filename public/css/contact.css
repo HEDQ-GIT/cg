@@ -248,7 +248,7 @@ button[type=submit], .button {
 }
 
 #contact-info > div {
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   font-family: "brandon-grotesque", Helvetica, Arial, sans-serif;
   font-weight: 700;
   letter-spacing: 1px;

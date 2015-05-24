@@ -6,7 +6,9 @@
 
 @section('left-content')
     <div class="col-md-5" style="margin-top: 0 !important; overflow: hidden;">
-        <div><img src="/img/about-overview.jpg" alt="about-overview" style="max-width: 100%;"/></div>
+        <div class="left-img" style="background:url('/img/pre2.png');"></div>
+        <div class="left-img" style="background:url('/img/pre1.png');"></div>
+        <div class="left-img" style="background:url('/img/pre3.png');"></div>
     </div>
 
 @stop
@@ -16,8 +18,21 @@
         <div class="row-fluid">
             <div class="span12" style="color:#777">
                 <p>Service > Prevetting > </p>
-                <h2 style="color: #0072B2">Overview of OMC</h2>
-                <p style="text-align: justify;">CG Marine main business scope covers ocean shipping, ship management, crew services, also engages in comprehensive technical management ,crew management, ship chartering, ship business, ship's insurance, shipping enterprise management and consulting services.Our Company have excellent management and innovation ability, many experienced senior managers and crew.<br><br> Leveraging on its extensive port management experience and world-class infrastructure, Jurong Port delivers a cost-effective, industry-specific solution that caters to the specialized requirements of users at OMC.<br><br>At present, the company has 14 vessels, total deadweight more than 350 thousand mt, with 200-400T derrick and main business is dry general cargo, exhibiting her special in heavy cargo transportation service.<br><br>On a new journey, CG Marine adhering to the customer first, honest service business philosophy, and actively explore and implementation the market chain mode,continually innovation, pursuit of excellence, the company will strive to become a unique brand characteristics and the valuable shipping company. We will be in good professional ethics,steadfast spirit and strict management, dedicated to the general customer service, We are willing to cooperate and with others, work together to create investment operation platform and brilliant shipping.</p>
+                <h2 style="color: #0072B2">Bunker Survey Company in Singapore</h2>
+                <h4 style="text-align: justify;">Tanker prevetting</h4>
+
+                <p style="text-align: justify;">In the marine tanker industry, two inspection regimes are predominant SIRE and CDI. SIRE inspections are commissioned by oil companies that are members of the OCIMF (Oil Companies International Marine Forum), Reports of such inspections are maintained on the OCIMF database for members to access, providing them up to date inspection status of the vessel. <br><br>
+                    CG has been offering Bunker Surveying Services to Charterers and Ship Operators. The Service includes quantity checks  and ‘on the spot’ quality checks prior to bunkering. Thus ensuring that off spec bunkers do not enter the ship’s tanks. This in return prevent long-term machinery damage and off hire costs.<br><br>
+                    Our Bunker services are provided by:<br>
+                <ul>
+                    <li>Supported by Master Mariners with tanker experience</li>
+                    <li>Quality checks for Density, Viscosity, Water content can be conducted ON THE SPOT PRIOR TO BUNKERING</li>
+                    <li>24 hours response arrangement</li>
+                    <li>In-House Engineers for loss investigations</li>
+                </ul><br>
+
+                Bunker/ ROB surveys can be combined with On/ Off Hire condition Surveys<br>
+                </p>
             </div>
         </div>
     </div>

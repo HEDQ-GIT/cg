@@ -236,8 +236,10 @@
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
                     <article class="featured-resource liEqualHeight">
+                        <div style="background-color: #000000">
                         <div class="resource-image" style="background:url('/img/logo_11.png');">
                             {{--<img src="/img/logo_11.png">--}}
+                        </div>
                         </div>
                         <p class="resource-title component-headline">PSA</p>
                         <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
@@ -264,7 +266,7 @@
 </div>
 
 <section id="footer">
-    <p id="copy">Copyright © 2014 CG-Marine Pte. Ltd. <br/> <a href="">Designed by Ekoo Lab<a></p>
+    <p id="copy">Copyright © 2015 CG-Marine Pte. Ltd. <br/> <a href="">Designed by Ekoo Lab<a></p>
 </section>
 </body>
 </html>

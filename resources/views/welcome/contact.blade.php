@@ -93,27 +93,25 @@
 
         <div id="contact-info" class="col-lg-4 col-md-4 col-sm-4">
             <div>
-                <p class="title">Email</p>
+                <p class="title">EMAIL</p>
 
-                <p class="detail"><a href="mailto:alanchen@combadi.com" title="Click to send us an email">alanchen@cg-marine
-                        .com</a></p>
+                <p class="detail">cg@cg-marine.com</p>
 
-                <p class="title">Telephone</p>
+                <p class="title">TELEPHONE</p>
 
-                <p class="detail"><a href="tel:00306977447033" title="Click to call us">+65 9107 3985</a></p>
-                <p class="title">Fax</p>
+                <p class="detail">+65 9107 3985</p>
+                <p class="title">FAX</p>
 
-                <p class="detail"><a href="tel:00306977447033" title="Click to call us">+65 9107 3985</a></p>
+                <p class="detail">+65 66402139</p>
 
-                <p class="title">Address</p>
+                <p class="title">ADDRESS</p>
 
                 <p class="detail">
                 {{--<address>--}}
-                    CG-Marine Ltd.<br>
-                    10, Anson Road, <br>
+                    10, ANSON ROAD, <br>
                     #26-04, <br>
-                    International Plaza, <br>
-                    Singapore 079903<br><br>
+                    INTERNATIONAL PlAZA, <br>
+                    SINGPORE 079903<br><br>
                 {{--</address>--}}
                 </p>
                 </dl>
@@ -124,7 +122,7 @@
 
 </section>
 <section id="footer">
-    <p id="copy">Copyright © 2014 CG-Marine Pte. Ltd. <br/> <a href="">Designed by Ekoo Lab<a></p>
+    <p id="copy">Copyright © 2015 CG-Marine Pte. Ltd. <br/> <a href="">Designed by Ekoo Lab<a></p>
 </section>
 {{--</div>--}}
 </body>

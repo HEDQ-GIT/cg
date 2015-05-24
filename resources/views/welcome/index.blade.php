@@ -99,20 +99,20 @@
                 <label>Contact Us</label>
                 <ul>
                     <li id="email">
-                        <p class="info-title">Email:</p>
-                        <p class="info-content">alanchen@cg-marine.com</p>
+                        <p class="info-title">EMAIL:</p>
+                        <p class="info-content">cg@cg-marine.com</p>
                     </li>
                     <li id="phone">
-                        <p class="info-title">Phone:</p>
+                        <p class="info-title">PHONE:</p>
                         <p class="info-content">+65 9107 3985</p>
                     </li>
                     <li id="fax">
-                        <p class="info-title">Fax:</p>
-                        <p class="info-content">+65 9107 3985</p>
+                        <p class="info-title">FAX:</p>
+                        <p class="info-content">+65 66402139</p>
                     </li>
                     <li id="addr">
                         <p class="info-title">ADDRESS</p>
-                        <p class="info-content">10, Anson Road, #26-04 , International Plaza, <br> Singapore 079903</p>
+                        <p class="info-content"><strong>10, ANSON ROAD, #26-04 , INTERNATIONAL PLAZA, <br> SINGAPORE 079903</strong></p>
                     </li>
                 </ul>
             </div>
@@ -126,11 +126,11 @@
             {{--</div>--}}
         {{--</div>--}}
         <ul>
+            <li><div class="logo-image" style="background:url('/img/logo_index_4.gif');"></div></li>
+            <li><div class="logo-image" style="background:url('/img/logo_index_5.png');"></div></li>
             <li><div class="logo-image" style="background:url('/img/logo_index_1.png');"></div></li>
             <li><div class="logo-image" style="background:url('/img/logo_index_2.jpg'); "></div></li>
             <li><div class="logo-image" style="background:url('/img/logo_index_3.png');"></div></li>
-            <li><div class="logo-image" style="background:url('/img/logo_index_4.gif');"></div></li>
-            <li><div class="logo-image" style="background:url('/img/logo_index_5.png');"></div></li>
             {{--margin-left: 50px--}}
             {{--<li><img src="/img/logo_index_2.jpg" alt=""></li>--}}
             {{--<li><img src="/img/logo_index_3.png" alt=""></li>--}}
@@ -141,7 +141,7 @@
 </div>
 
 <section id="footer">
-    <p id="copy">Copyright © 2014 CG-Marine Pte. Ltd. <br/> <a href="">Designed by Ekoo Lab<a></p>
+    <p id="copy">Copyright © 2015 CG-Marine Pte. Ltd. <br/> <a href="">Designed by Ekoo Lab<a></p>
 </section>
 <script src="js/wow.min.js"></script>
 </body>

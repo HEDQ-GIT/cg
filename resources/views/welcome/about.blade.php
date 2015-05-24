@@ -17,8 +17,11 @@
         <div class="row-fluid">
             <div class="span12" style="color:#777">
                 <p>About Us > </p>
-                <h2 style="color: #0072B2">Overview of OMC</h2>
-                <p style="text-align: justify;">CG Marine main business scope covers ocean shipping, ship management, crew services, also engages in comprehensive technical management ,crew management, ship chartering, ship business, ship's insurance, shipping enterprise management and consulting services.Our Company have excellent management and innovation ability, many experienced senior managers and crew.<br><br> Leveraging on its extensive port management experience and world-class infrastructure, Jurong Port delivers a cost-effective, industry-specific solution that caters to the specialized requirements of users at OMC.<br><br>At present, the company has 14 vessels, total deadweight more than 350 thousand mt, with 200-400T derrick and main business is dry general cargo, exhibiting her special in heavy cargo transportation service.<br><br>On a new journey, CG Marine adhering to the customer first, honest service business philosophy, and actively explore and implementation the market chain mode,continually innovation, pursuit of excellence, the company will strive to become a unique brand characteristics and the valuable shipping company. We will be in good professional ethics,steadfast spirit and strict management, dedicated to the general customer service, We are willing to cooperate and with others, work together to create investment operation platform and brilliant shipping.</p>
+                <h2 style="color: #0072B2">Our Team and About Us</h2>
+                <p style="text-align: justify;">The executive director, general manager, vice general manager and core team has held the post in well-known management company in and around world for more than fifteen years. The key personnel come from famous ship owner company, ship management company and chartering company. We have senior captains, senior chief engineers, crew managers and international shipping business managers among our team.
+                    who are graduated from Singapore, National University, Dalian Maritime University, Shanghai Maritime University and other accredited professional universities domestic and
+                    overseas, experienced as the captain, chief engineer and surveyor for many years. The team members are experienced in navigation, skilled in ship management and mastered in the international ship chartering.
+                </p>
             </div>
         </div>
     </div>

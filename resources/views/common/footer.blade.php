@@ -26,6 +26,6 @@
 </style>
 
 <section id="footer">
-    <p id="copy">Copyright © 2014 CG-Marine Pte. Ltd. <br/> <a href="">Designed by Ekoo Lab<a></p>
+    <p id="copy">Copyright © 2015 CG-Marine Pte. Ltd. <br/> <a href="">Designed by Ekoo Lab<a></p>
 </section>
 <script src="js/wow.min.js"></script>
