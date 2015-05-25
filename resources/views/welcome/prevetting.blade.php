@@ -6,9 +6,9 @@
 
 @section('left-content')
     <div class="col-md-5" style="margin-top: 0 !important; overflow: hidden;">
-        <div class="left-img" style="background:url('/img/pre2.png');"></div>
+        {{--<div class="left-img" style="background:url('/img/pre2.png');"></div>--}}
         <div class="left-img" style="background:url('/img/pre1.png');"></div>
-        <div class="left-img" style="background:url('/img/pre3.png');"></div>
+        {{--<div class="left-img" style="background:url('/img/pre3.png');"></div>--}}
     </div>
 
 @stop

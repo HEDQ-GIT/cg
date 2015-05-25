@@ -94,7 +94,7 @@
     background: #fff;
 	position: relative;
     width: 100%;
-	height: 370px;
+	height: 240px;
 	z-index: 5;
     box-shadow: 0 -2px 3px -2px rgba(0,0,0,0.2), 0 2px 2px rgba(0,0,0,0.1);
     border-radius: 0 3px 3px 3px;
@@ -145,7 +145,7 @@
 }
 
 .left-img {
-	height: 270px !important;
+	height: 600px !important;
 	background-position: top left !important;
 	background-size: 100% 100% !important;
 	background-repeat: no-repeat !important;

@@ -6,7 +6,8 @@
 
 @section('left-content')
     <div class="col-md-5" style="margin-top: 0 !important; overflow: hidden;">
-        <div><img src="/img/repair.png" alt="about-overview" style="height: 500px; max-width: 100%;"/></div>
+        {{--<div><img src="/img/repair.png" alt="about-overview" style="height: 500px; max-width: 100%;"/></div>--}}
+        <div class="left-img" style="background:url('/img/repair.png');"></div>
     </div>
 
 @stop
