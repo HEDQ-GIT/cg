@@ -311,13 +311,14 @@ p.info-content, p.info-title {
 .logo-image {
 	width: 150px;
 	height: 80px;
-	background-position: center left !important;
+	background-position: center center !important;
 	background-size: 100% 80% !important;
-	/*background-size: contain !important;*/
+	/*background-size: cover !important;*/
 	background-repeat: no-repeat !important;
 	/*overflow: hidden;*/
 	/*max-height: 80px;*/
 	/*text-align: center;*/
+	/*max-width: 60%;*/
 }
 /* ------------------------------------------------------ client section end	 ------------------------------------------------------*/
 
