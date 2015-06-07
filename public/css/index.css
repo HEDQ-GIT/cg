@@ -300,7 +300,7 @@ p.info-content, p.info-title {
 
 #partner ul li{
 	display: inline-block;
-	margin: auto 10px;
+	margin: auto 14px;
 }
 
 /*#partner ul li img{*/
@@ -309,8 +309,8 @@ p.info-content, p.info-title {
 /*}*/
 
 .logo-image {
-	width: 150px;
-	height: 80px;
+	/*width: 150px;*/
+	/*height: 80px;*/
 	background-position: center center !important;
 	background-size: 100% 80% !important;
 	/*background-size: cover !important;*/
