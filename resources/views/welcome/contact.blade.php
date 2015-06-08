@@ -57,12 +57,14 @@
             <h1 class="pagetitle">Contact us</h1>
 
             <div class="note">
-                <p>We are here to answer any questions you may have about our combadi
-                    experiences. Reach out to us and we'll respond as soon as we can.</p>
+                <p>We are always ready to help you here. Reach out to us and we'll respond as soon as we can.</p>
+                <p>Even if there is something you have always wanted to experience and can't find it around you or in the market, let us know and we promise we'll do our best to find it for you and send you there.</p>
+                {{--<p>We are here to answer any questions you may have about our combadi--}}
+                    {{--experiences. Reach out to us and we'll respond as soon as we can.</p>--}}
 
-                <p>Even if there is something you have always wanted to experience and
-                    can't find it on combadi, let us know and we promise we'll do our
-                    best to find it for you and send you there.</p>
+                {{--<p>Even if there is something you have always wanted to experience and--}}
+                    {{--can't find it on combadi, let us know and we promise we'll do our--}}
+                    {{--best to find it for you and send you there.</p>--}}
             </div>
 
             <p>

@@ -84,10 +84,7 @@
                             {{--<img src="/img/logo_1.gif">--}}
                         </div>
                         <p class="resource-title component-headline">COSCO</p>
-                        <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
-                            visibility and help them thrive in a networked world where customers and employees have become increasingly
-                            empowered.
-                        </p>
+                        <p class="description component-subheadline">Safety consultancy for oil terminal</p>
                     </article>
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
@@ -96,10 +93,7 @@
                             {{--<img src="/img/logo_2.jpg">--}}
                         </div>
                         <p class="resource-title component-headline">FEOSO</p>
-                        <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
-                            visibility and help them thrive in a networked world where customers and employees have become increasingly
-                            empowered.
-                        </p>
+                        <p class="description component-subheadline" style="color: blue; font-weight: bold;">{FEOSO Description}</p>
                     </article>
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
@@ -108,10 +102,7 @@
                             {{--<img src="/img/logo_3.jpg">--}}
                         </div>
                         <p class="resource-title component-headline">FENGHAI</p>
-                        <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
-                            visibility and help them thrive in a networked world where customers and employees have become increasingly
-                            empowered.
-                        </p>
+                        <p class="description component-subheadline">Pre-vetting tanker SIRE inspection</p>
                     </article>
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
@@ -120,10 +111,7 @@
                             {{--<img src="/img/logo_4.jpg">--}}
                         </div>
                         <p class="resource-title component-headline">EXXONMOBIL</p>
-                        <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
-                            visibility and help them thrive in a networked world where customers and employees have become increasingly
-                            empowered.
-                        </p>
+                        <p class="description component-subheadline">Sire inspection</p>
                     </article>
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
@@ -132,10 +120,7 @@
                             {{--<img src="/img/logo_index_1.png">--}}
                         </div>
                         <p class="resource-title component-headline">ABS</p>
-                        <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
-                            visibility and help them thrive in a networked world where customers and employees have become increasingly
-                            empowered.
-                        </p>
+                        <p class="description component-subheadline" style="padding-bottom: 10px;">We engage to conduct an annual radio and GMDSS survey  for their vessels.</p>
                     </article>
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
@@ -144,22 +129,17 @@
                             {{--<img src="/img/logo_index_2.jpg">--}}
                         </div>
                         <p class="resource-title component-headline">CCS</p>
-                        <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
-                            visibility and help them thrive in a networked world where customers and employees have become increasingly
-                            empowered.
-                        </p>
+                        <p class="description component-subheadline" style="padding-bottom: 10px;">We engage to conduct an annual radio and GMDSS survey for their vessels</p>
                     </article>
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
                     <article class="featured-resource liEqualHeight">
                         <div class="resource-image" style="background:url('/img/logo_index_3.png');">
-                            {{--<img src="/img/logo_index_3.png">--}}
+                        {{--<div class="resource-image" style="background-color: #ffffff">--}}
+                            {{--<img src="/img/logo_index_3.png" >--}}
                         </div>
                         <p class="resource-title component-headline">RINA</p>
-                        <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
-                            visibility and help them thrive in a networked world where customers and employees have become increasingly
-                            empowered.
-                        </p>
+                        <p class="description component-subheadline" style="padding-bottom: 10px;">We engage to establish an safe management system for ship company under RINA.</p>
                     </article>
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
@@ -168,10 +148,7 @@
                             {{--<img src="/img/logo_index_4.gif">--}}
                         </div>
                         <p class="resource-title component-headline">EAGLE</p>
-                        <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
-                            visibility and help them thrive in a networked world where customers and employees have become increasingly
-                            empowered.
-                        </p>
+                        <p class="description component-subheadline" style="color: blue; font-weight: bold;">{EAGLE Description}</p>
                     </article>
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
@@ -180,10 +157,7 @@
                             {{--<img src="/img/logo_index_5.png">--}}
                         </div>
                         <p class="resource-title component-headline">BP</p>
-                        <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
-                            visibility and help them thrive in a networked world where customers and employees have become increasingly
-                            empowered.
-                        </p>
+                        <p class="description component-subheadline">Pre SIRE inspection</p>
                     </article>
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
@@ -192,10 +166,7 @@
                             {{--<img src="/img/logo_15.jpg">--}}
                         </div>
                         <p class="resource-title component-headline">CCCC</p>
-                        <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
-                            visibility and help them thrive in a networked world where customers and employees have become increasingly
-                            empowered.
-                        </p>
+                        <p class="description component-subheadline" style="padding-bottom: 10px;">Helping their ship to complete annual Radio and GMDSS service.</p>
                     </article>
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
@@ -204,10 +175,7 @@
                             {{--<img src="/img/logo_14.jpg">--}}
                         </div>
                         <p class="resource-title component-headline">COSL</p>
-                        <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
-                            visibility and help them thrive in a networked world where customers and employees have become increasingly
-                            empowered.
-                        </p>
+                        <p class="description component-subheadline" style="color: blue; font-weight: bold;">{COSL Description}</p>
                     </article>
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
@@ -216,10 +184,7 @@
                             {{--<img src="/img/logo_13.gif">--}}
                         </div>
                         <p class="resource-title component-headline">CHEVRON</p>
-                        <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
-                            visibility and help them thrive in a networked world where customers and employees have become increasingly
-                            empowered.
-                        </p>
+                        <p class="description component-subheadline" style="color: blue; font-weight: bold;">{CHEVRON Description}</p>
                     </article>
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
@@ -228,10 +193,7 @@
                             {{--<img src="/img/logo_12.png">--}}
                         </div>
                         <p class="resource-title component-headline">PAC MARINE</p>
-                        <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
-                            visibility and help them thrive in a networked world where customers and employees have become increasingly
-                            empowered.
-                        </p>
+                        <p class="description component-subheadline">Pre-SIRE & CDI Inspection</p>
                     </article>
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
@@ -242,10 +204,7 @@
                         </div>
                         </div>
                         <p class="resource-title component-headline">PSA</p>
-                        <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
-                            visibility and help them thrive in a networked world where customers and employees have become increasingly
-                            empowered.
-                        </p>
+                        <p class="description component-subheadline">Deep sea pilotage for VLCC</p>
                     </article>
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
@@ -254,10 +213,7 @@
                             {{--<img src="/img/logo_10.jpg">--}}
                         </div>
                         <p class="resource-title component-headline">HARPS</p>
-                        <p class="description component-subheadline">Our clients engage us in a number of ways—we help them solve business problems, increase
-                            visibility and help them thrive in a networked world where customers and employees have become increasingly
-                            empowered.
-                        </p>
+                        <p class="description component-subheadline" style="padding-bottom: 10px;">Helping them for ship delivery from China to Singapore</p>
                     </article>
                 </div>
             </div>

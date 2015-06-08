@@ -18,20 +18,22 @@
             <div class="span12" style="color:#777">
                 <p>Service > Repair > </p>
                 <h2 style="color: #0072B2">Repair Servies</h2>
-                <p style="text-align: justify;">
-                    <ul>
-                    <li>Repairing projects of offshore engineering</li>
-                    <li>Special painting projects for cargo holds and ballast-water compartments of product tankers and chemical product vessels</li>
-                    <li>Maintenance and repair of adjustable propeller</li>
-                    <li>Maintenance and repair services for specialized supercharger</li>
-                    <li>Repairing of speed governor</li>
-                    <li>Hot painting and spraying</li>
-                    <li>Renovation of the worn parts</li>
-                    <li>Repairing of boilers</li>
-                    <li>Repairing of hydraulic systems</li>
-                    <li>Repairing of communication and navigation systems</li>
-                </ul>
-                </p>
+                <p>CG Marine service also provide our best technical repair service to ships trading is Far East Asia special in Singapore , China, Hong Kong and Indonesia.</p>
+                <p>Such technical service includes normal Main Engine overhauling, fabricating, emergency repairs, electrical trouble shootings and repairs; Deck Machinery repairs and fabricating, Auto control system repairs and other types of repairs.</p>
+                {{--<p style="text-align: justify;">--}}
+                    {{--<ul>--}}
+                    {{--<li>Repairing projects of offshore engineering</li>--}}
+                    {{--<li>Special painting projects for cargo holds and ballast-water compartments of product tankers and chemical product vessels</li>--}}
+                    {{--<li>Maintenance and repair of adjustable propeller</li>--}}
+                    {{--<li>Maintenance and repair services for specialized supercharger</li>--}}
+                    {{--<li>Repairing of speed governor</li>--}}
+                    {{--<li>Hot painting and spraying</li>--}}
+                    {{--<li>Renovation of the worn parts</li>--}}
+                    {{--<li>Repairing of boilers</li>--}}
+                    {{--<li>Repairing of hydraulic systems</li>--}}
+                    {{--<li>Repairing of communication and navigation systems</li>--}}
+                {{--</ul>--}}
+                {{--</p>--}}
             </div>
         </div>
     </div>

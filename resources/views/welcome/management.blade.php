@@ -19,7 +19,18 @@
             <div class="span12" style="color:#777">
                 <p>Service > Management > </p>
                 <h2 style="color: #0072B2">Ship Management</h2>
-                <p style="text-align: justify;">The company is specialized in international ship management, focus on ship maintenance, technical management, navigation security, crew manning, scheduling control, insurance claims, etc. We adhere to “acquire benefit from operating management” and “people oriented”, attach importance to scientific management, properly allocation, and control cost in the premise of keeping safety. We realize scientific and reasonable increasing income and reducing expenditure through large-scale procurement, purchase by biding, encouraging self-repair, fuel and energy saving. Through these efforts, we successfully met the challenges from the severe market, presented a good development state.</p>
+                {{--<p style="text-align: justify;">The company is specialized in international ship management, focus on ship maintenance, technical management, navigation security, crew manning, scheduling control, insurance claims, etc. We adhere to “acquire benefit from operating management” and “people oriented”, attach importance to scientific management, properly allocation, and control cost in the premise of keeping safety. We realize scientific and reasonable increasing income and reducing expenditure through large-scale procurement, purchase by biding, encouraging self-repair, fuel and energy saving. Through these efforts, we successfully met the challenges from the severe market, presented a good development state.</p>--}}
+                <p>CG Marine service offers full ship management service of vessel trading worldwide. We can manage container, bulk but particularly in tanker and chemical vessels.</p>
+                <p><strong>Our Business Scope are at following areas:</strong></p>
+                <ul>
+                <li>ISM/ISPS/MLC management</li>
+                <li>Technical management</li>
+                <li>Safety& Quality management</li>
+                <li>Crew manning</li>
+                <li>new building supervisor</li>
+                </ul><br>
+                <p>We manage in a very open and transparent way and believe that our service can meet up with our clients’ requirement.</p>
+                <p>We strive to achieve the highest operational efficiency, cost saving and green environment achievable.</p>
             </div>
         </div>
     </div>
