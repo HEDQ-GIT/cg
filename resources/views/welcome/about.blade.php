@@ -16,13 +16,13 @@
 @section('right-content')
     <div class="col-md-10 col-md-offset-1" style="margin-top: 20px !important;">
         <div class="row" style="margin-bottom: 30px !important;">
-            {{--<div><img src="/img/aboutnew.png" alt="about-overview" style="max-width: 100%;"/></div>--}}
+            {{--<div><img src="/img/aboutnew.png" alt="about-overview" style="width: 800px; height: 350px"/></div>--}}
             <div style="background: url('/img/aboutnew.png') no-repeat;
              background-size: 100%;
-    background-size: contain !important;
+    background-size: cover !important;
     background-repeat: no-repeat !important;
     background-position: center center!important;
-    width: 100%; height: 300px;"></div>
+    width: 100%; height: 350px;"></div>
         </div>
         <div class="row">
             <div class="span12" style="color:#777">
