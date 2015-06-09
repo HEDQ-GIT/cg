@@ -7,7 +7,11 @@
 @section('left-content')
     <div class="col-md-5" style="margin-top: 0 !important; overflow: hidden;">
         {{--<div class="left-img" style="background:url('/img/pre2.png');"></div>--}}
-        <div class="left-img" style="background:url('/img/pre1.png');"></div>
+        {{--<div class="left-img" style="background:url('/img/pre1.png');"></div>--}}
+        <div>
+            <img src="/img/pre1new.png" alt=""/>
+            <img src="/img/pre2new.png" alt=""/>
+        </div>
         {{--<div class="left-img" style="background:url('/img/pre3.png');"></div>--}}
     </div>
 
@@ -18,7 +22,7 @@
         <div class="row-fluid">
             <div class="span12" style="color:#777">
                 <p>Service > Prevetting > </p>
-                <h2 style="color: #0072B2">Bunker Survey Company in Singapore</h2>
+                {{--<h2 style="color: #0072B2">Bunker Survey Company in Singapore</h2>--}}
                 <h4 style="text-align: justify;">Tanker prevetting</h4>
 
                 <p style="text-align: justify;">In the marine tanker industry, we provide two Pre-Vetting services which to be called SIRE and CDI to ship-owners or ship managers, we offer audit and inspect the entire ships, and prepare the entire ship ready in order to pass SIRE /CDI inspection.</p>

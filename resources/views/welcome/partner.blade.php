@@ -93,7 +93,7 @@
                             {{--<img src="/img/logo_2.jpg">--}}
                         </div>
                         <p class="resource-title component-headline">FEOSO</p>
-                        <p class="description component-subheadline" style="color: blue; font-weight: bold;">{FEOSO Description}</p>
+                        <p class="description component-subheadline" style="color: white; font-weight: bold;">{FEOSO Description}</p>
                     </article>
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
@@ -142,15 +142,15 @@
                         <p class="description component-subheadline" style="padding-bottom: 10px;">We engage to establish an safe management system for ship company under RINA.</p>
                     </article>
                 </div>
-                <div class="list-item col-lg-4 col-md-4 col-sm-4">
-                    <article class="featured-resource liEqualHeight">
-                        <div class="resource-image" style="background:url('/img/logo_index_4.gif');">
+                {{--<div class="list-item col-lg-4 col-md-4 col-sm-4">--}}
+                    {{--<article class="featured-resource liEqualHeight">--}}
+                        {{--<div class="resource-image" style="background:url('/img/logo_index_4.gif');">--}}
                             {{--<img src="/img/logo_index_4.gif">--}}
-                        </div>
-                        <p class="resource-title component-headline">EAGLE</p>
-                        <p class="description component-subheadline" style="color: blue; font-weight: bold;">{EAGLE Description}</p>
-                    </article>
-                </div>
+                        {{--</div>--}}
+                        {{--<p class="resource-title component-headline">EAGLE</p>--}}
+                        {{--<p class="description component-subheadline" style="color: blue; font-weight: bold;">{EAGLE Description}</p>--}}
+                    {{--</article>--}}
+                {{--</div>--}}
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
                     <article class="featured-resource liEqualHeight">
                         <div class="resource-image" style="background:url('/img/logo_index_5.png');">
@@ -160,33 +160,33 @@
                         <p class="description component-subheadline">Pre SIRE inspection</p>
                     </article>
                 </div>
-                <div class="list-item col-lg-4 col-md-4 col-sm-4">
-                    <article class="featured-resource liEqualHeight">
-                        <div class="resource-image" style="background:url('/img/logo_15.jpg');">
+                {{--<div class="list-item col-lg-4 col-md-4 col-sm-4">--}}
+                    {{--<article class="featured-resource liEqualHeight">--}}
+                        {{--<div class="resource-image" style="background:url('/img/logo_15.jpg');">--}}
                             {{--<img src="/img/logo_15.jpg">--}}
-                        </div>
-                        <p class="resource-title component-headline">CCCC</p>
-                        <p class="description component-subheadline" style="padding-bottom: 10px;">Helping their ship to complete annual Radio and GMDSS service.</p>
-                    </article>
-                </div>
-                <div class="list-item col-lg-4 col-md-4 col-sm-4">
-                    <article class="featured-resource liEqualHeight">
-                        <div class="resource-image" style="background:url('/img/logo_14.jpg');">
+                        {{--</div>--}}
+                        {{--<p class="resource-title component-headline">CCCC</p>--}}
+                        {{--<p class="description component-subheadline" style="padding-bottom: 10px;">Helping their ship to complete annual Radio and GMDSS service.</p>--}}
+                    {{--</article>--}}
+                {{--</div>--}}
+                {{--<div class="list-item col-lg-4 col-md-4 col-sm-4">--}}
+                    {{--<article class="featured-resource liEqualHeight">--}}
+                        {{--<div class="resource-image" style="background:url('/img/logo_14.jpg');">--}}
                             {{--<img src="/img/logo_14.jpg">--}}
-                        </div>
-                        <p class="resource-title component-headline">COSL</p>
-                        <p class="description component-subheadline" style="color: blue; font-weight: bold;">{COSL Description}</p>
-                    </article>
-                </div>
-                <div class="list-item col-lg-4 col-md-4 col-sm-4">
-                    <article class="featured-resource liEqualHeight">
-                        <div class="resource-image" style="background:url('/img/logo_13.gif');">
+                        {{--</div>--}}
+                        {{--<p class="resource-title component-headline">COSL</p>--}}
+                        {{--<p class="description component-subheadline" style="color: blue; font-weight: bold;">{COSL Description}</p>--}}
+                    {{--</article>--}}
+                {{--</div>--}}
+                {{--<div class="list-item col-lg-4 col-md-4 col-sm-4">--}}
+                    {{--<article class="featured-resource liEqualHeight">--}}
+                        {{--<div class="resource-image" style="background:url('/img/logo_13.gif');">--}}
                             {{--<img src="/img/logo_13.gif">--}}
-                        </div>
-                        <p class="resource-title component-headline">CHEVRON</p>
-                        <p class="description component-subheadline" style="color: blue; font-weight: bold;">{CHEVRON Description}</p>
-                    </article>
-                </div>
+                        {{--</div>--}}
+                        {{--<p class="resource-title component-headline">CHEVRON</p>--}}
+                        {{--<p class="description component-subheadline" style="color: blue; font-weight: bold;">{CHEVRON Description}</p>--}}
+                    {{--</article>--}}
+                {{--</div>--}}
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
                     <article class="featured-resource liEqualHeight">
                         <div class="resource-image" style="background:url('/img/logo_12.png');">
@@ -196,17 +196,17 @@
                         <p class="description component-subheadline">Pre-SIRE & CDI Inspection</p>
                     </article>
                 </div>
-                <div class="list-item col-lg-4 col-md-4 col-sm-4">
-                    <article class="featured-resource liEqualHeight">
-                        <div style="background-color: #000000">
-                        <div class="resource-image" style="background:url('/img/logo_11.png');">
+                {{--<div class="list-item col-lg-4 col-md-4 col-sm-4">--}}
+                    {{--<article class="featured-resource liEqualHeight">--}}
+                        {{--<div style="background-color: #000000">--}}
+                        {{--<div class="resource-image" style="background:url('/img/logo_11.png');">--}}
                             {{--<img src="/img/logo_11.png">--}}
-                        </div>
-                        </div>
-                        <p class="resource-title component-headline">PSA</p>
-                        <p class="description component-subheadline">Deep sea pilotage for VLCC</p>
-                    </article>
-                </div>
+                        {{--</div>--}}
+                        {{--</div>--}}
+                        {{--<p class="resource-title component-headline">PSA</p>--}}
+                        {{--<p class="description component-subheadline">Deep sea pilotage for VLCC</p>--}}
+                    {{--</article>--}}
+                {{--</div>--}}
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
                     <article class="featured-resource liEqualHeight">
                         <div class="resource-image" style="background:url('/img/logo_10.jpg');">

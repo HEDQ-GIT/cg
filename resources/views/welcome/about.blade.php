@@ -5,17 +5,26 @@
     <title>About | CG-Marine</title>
 @stop
 
-@section('left-content')
-    <div class="col-md-5" style="margin-top: 0 !important; overflow: hidden;">
+{{--@section('left-content')--}}
+    {{--<div class="col-md-5" style="margin-top: 0 !important; overflow: hidden;">--}}
         {{--<div><img src="/img/about-overview.jpg" alt="about-overview" style="max-width: 100%;"/></div>--}}
-        <div><img src="/img/about.png" alt="about-overview" style="max-width: 100%;"/></div>
-    </div>
+        {{--<div><img src="/img/about.png" alt="about-overview" style="max-width: 100%;"/></div>--}}
+    {{--</div>--}}
 
-@stop
+{{--@stop--}}
 
 @section('right-content')
-    <div class="col-md-6" style="margin-top: 40px !important; margin-left: 30px !important;">
-        <div class="row-fluid">
+    <div class="col-md-10 col-md-offset-1" style="margin-top: 20px !important;">
+        <div class="row" style="margin-bottom: 30px !important;">
+            {{--<div><img src="/img/aboutnew.png" alt="about-overview" style="max-width: 100%;"/></div>--}}
+            <div style="background: url('/img/aboutnew.png') no-repeat;
+             background-size: 100%;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-position: center center!important;
+    width: 100%; height: 300px;"></div>
+        </div>
+        <div class="row">
             <div class="span12" style="color:#777">
                 <p>About Us > </p>
                 <h2 style="color: #0072B2">Our Team and About Us</h2>
