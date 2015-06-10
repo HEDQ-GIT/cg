@@ -83,8 +83,8 @@
                         <div class="resource-image" style="background:url('/img/logo_1.gif');">
                             {{--<img src="/img/logo_1.gif">--}}
                         </div>
-                        <p class="resource-title component-headline">COSCO</p>
-                        <p class="description component-subheadline">Safety consultancy for oil terminal</p>
+                        {{--<p class="resource-title component-headline">COSCO</p>--}}
+                        {{--<p class="description component-subheadline">Safety consultancy for oil terminal</p>--}}
                     </article>
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
@@ -92,8 +92,8 @@
                         <div class="resource-image" style="background:url('/img/logo_2.jpg');">
                             {{--<img src="/img/logo_2.jpg">--}}
                         </div>
-                        <p class="resource-title component-headline">FEOSO</p>
-                        <p class="description component-subheadline" style="color: white; font-weight: bold;">{FEOSO Description}</p>
+                        {{--<p class="resource-title component-headline">FEOSO</p>--}}
+                        {{--<p class="description component-subheadline" style="color: white; font-weight: bold;">{FEOSO Description}</p>--}}
                     </article>
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
@@ -101,8 +101,8 @@
                         <div class="resource-image" style="background:url('/img/logo_3.jpg');">
                             {{--<img src="/img/logo_3.jpg">--}}
                         </div>
-                        <p class="resource-title component-headline">FENGHAI</p>
-                        <p class="description component-subheadline">Pre-vetting tanker SIRE inspection</p>
+                        {{--<p class="resource-title component-headline">FENGHAI</p>--}}
+                        {{--<p class="description component-subheadline">Pre-vetting tanker SIRE inspection</p>--}}
                     </article>
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
@@ -110,8 +110,8 @@
                         <div class="resource-image" style="background:url('/img/logo_4.jpg');">
                             {{--<img src="/img/logo_4.jpg">--}}
                         </div>
-                        <p class="resource-title component-headline">EXXONMOBIL</p>
-                        <p class="description component-subheadline">Sire inspection</p>
+                        {{--<p class="resource-title component-headline">EXXONMOBIL</p>--}}
+                        {{--<p class="description component-subheadline">Sire inspection</p>--}}
                     </article>
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
@@ -119,8 +119,8 @@
                         <div class="resource-image" style="background:url('/img/logo_index_1.png');">
                             {{--<img src="/img/logo_index_1.png">--}}
                         </div>
-                        <p class="resource-title component-headline">ABS</p>
-                        <p class="description component-subheadline" style="padding-bottom: 10px;">We engage to conduct an annual radio and GMDSS survey  for their vessels.</p>
+                        {{--<p class="resource-title component-headline">ABS</p>--}}
+                        {{--<p class="description component-subheadline" style="padding-bottom: 10px;">We engage to conduct an annual radio and GMDSS survey  for their vessels.</p>--}}
                     </article>
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
@@ -128,8 +128,8 @@
                         <div class="resource-image" style="background:url('/img/logo_index_2.jpg');">
                             {{--<img src="/img/logo_index_2.jpg">--}}
                         </div>
-                        <p class="resource-title component-headline">CCS</p>
-                        <p class="description component-subheadline" style="padding-bottom: 10px;">We engage to conduct an annual radio and GMDSS survey for their vessels</p>
+                        {{--<p class="resource-title component-headline">CCS</p>--}}
+                        {{--<p class="description component-subheadline" style="padding-bottom: 10px;">We engage to conduct an annual radio and GMDSS survey for their vessels</p>--}}
                     </article>
                 </div>
                 <div class="list-item col-lg-4 col-md-4 col-sm-4">
@@ -138,8 +138,8 @@
                         {{--<div class="resource-image" style="background-color: #ffffff">--}}
                             {{--<img src="/img/logo_index_3.png" >--}}
                         </div>
-                        <p class="resource-title component-headline">RINA</p>
-                        <p class="description component-subheadline" style="padding-bottom: 10px;">We engage to establish an safe management system for ship company under RINA.</p>
+                        {{--<p class="resource-title component-headline">RINA</p>--}}
+                        {{--<p class="description component-subheadline" style="padding-bottom: 10px;">We engage to establish an safe management system for ship company under RINA.</p>--}}
                     </article>
                 </div>
                 {{--<div class="list-item col-lg-4 col-md-4 col-sm-4">--}}
@@ -156,8 +156,8 @@
                         <div class="resource-image" style="background:url('/img/logo_index_5.png');">
                             {{--<img src="/img/logo_index_5.png">--}}
                         </div>
-                        <p class="resource-title component-headline">BP</p>
-                        <p class="description component-subheadline">Pre SIRE inspection</p>
+                        {{--<p class="resource-title component-headline">BP</p>--}}
+                        {{--<p class="description component-subheadline">Pre SIRE inspection</p>--}}
                     </article>
                 </div>
                 {{--<div class="list-item col-lg-4 col-md-4 col-sm-4">--}}
@@ -192,8 +192,8 @@
                         <div class="resource-image" style="background:url('/img/logo_12.png');">
                             {{--<img src="/img/logo_12.png">--}}
                         </div>
-                        <p class="resource-title component-headline">PAC MARINE</p>
-                        <p class="description component-subheadline">Pre-SIRE & CDI Inspection</p>
+                        {{--<p class="resource-title component-headline">PAC MARINE</p>--}}
+                        {{--<p class="description component-subheadline">Pre-SIRE & CDI Inspection</p>--}}
                     </article>
                 </div>
                 {{--<div class="list-item col-lg-4 col-md-4 col-sm-4">--}}
@@ -212,8 +212,8 @@
                         <div class="resource-image" style="background:url('/img/logo_10.jpg');">
                             {{--<img src="/img/logo_10.jpg">--}}
                         </div>
-                        <p class="resource-title component-headline">HARPS</p>
-                        <p class="description component-subheadline" style="padding-bottom: 10px;">Helping them for ship delivery from China to Singapore</p>
+                        {{--<p class="resource-title component-headline">HARPS</p>--}}
+                        {{--<p class="description component-subheadline" style="padding-bottom: 10px;">Helping them for ship delivery from China to Singapore</p>--}}
                     </article>
                 </div>
             </div>
