@@ -29,7 +29,7 @@
 <div class="container">
     <!-- <div id="content"> -->
     <section id="header" class="navbar">
-        <img id="logo" style="height: 82px;" src="/img/logo.png" alt="logo">
+        <img id="logo" style="height: 82px;" src="/img/logo1.png" alt="logo">
         {{--<span id="logo"><em>CG-Marine Logo</em></span>--}}
         <ul id="right-menu" class="nav">
             <li><a href="{{ url('/') }}">HOME</a></li>
