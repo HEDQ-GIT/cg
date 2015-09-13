@@ -12,7 +12,9 @@
             {{--<img src="/img/Calbration1.jpg" alt=""/>--}}
             {{--<img src="/img/Calbration2.jpg" alt=""/>--}}
             <div class="left-img" style="background:url('/img/equip1.jpg'); "></div>
-            <div class="left-img" style="background:url('/img/equip2.jpg');"></div>
+            <img src="/img/Calbration2.jpg" style="max-width: 100%;width: 100%;" alt=""/>
+
+            {{--<div class="left-img" style="background:url('/img/equip2.jpg');"></div>--}}
         </div>
     </div>
 

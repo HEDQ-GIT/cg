@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30137296-0760-48db-a342-664400f387c4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome/consultancy.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome/consultancy.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome/contact.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome/contact.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/common/footer.blade.php" afterPath="$PROJECT_DIR$/resources/views/common/footer.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome/index.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome/index.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome/management.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome/management.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/common/menu.blade.php" afterPath="$PROJECT_DIR$/resources/views/common/menu.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome/partner.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome/partner.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome/prevetting.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome/prevetting.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome/repaire.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome/repaire.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="cg.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,10 +53,11 @@
       <file leaf-file-name="management.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/welcome/management.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.554731" vertical-offset="121" max-vertical-offset="1380">
-              <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+            <state vertical-scroll-proportion="0.554731" vertical-offset="121" max-vertical-offset="1440">
+              <caret line="14" column="79" selection-start-line="14" selection-start-column="79" selection-end-line="14" selection-end-column="79" />
               <folding>
                 <element signature="e#545#588#0#HTML" expanded="true" />
+                <element signature="e#640#676#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -861,10 +853,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/welcome/management.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.554731" vertical-offset="121" max-vertical-offset="1380">
-          <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+        <state vertical-scroll-proportion="0.554731" vertical-offset="121" max-vertical-offset="1440">
+          <caret line="14" column="79" selection-start-line="14" selection-start-column="79" selection-end-line="14" selection-end-column="79" />
           <folding>
             <element signature="e#545#588#0#HTML" expanded="true" />
+            <element signature="e#640#676#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
