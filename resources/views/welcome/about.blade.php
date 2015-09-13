@@ -28,13 +28,14 @@
             <div class="span12" style="color:#777">
                 <p>About Us > </p>
                 <h2 style="color: #0072B2">Our Team and About Us</h2>
-                <p style="text-align: justify;">We started our business in 2013 in Singapore.</p>
+                {{--<p style="text-align: justify;">We started our business in 2013 in Singapore.</p>--}}
                 <p><strong>Our Vision:</strong><br/>
                 To flourish as an independent organisation, which is unique, cost effective controlled, and quality standards maintained.</p>
+                <p>We take care of marine safety.</p>
                 <p><strong>Our Policy:</strong><br/>
-                To establish and maintain a Quality system in order to provide customers with the most highest level of Marine Consultancy and safety services with mutually acceptable requirements.</p>
-                <p>CG Marine Services is a Marine services and consultancy firm offering for inspections on tankers ( SIRE& CDI), specialised Cargo and offshore Support Vessels ( OVID).</p>
-                <p>We provide safety consultancy for Oil Terminal and Oil Majors. Our customers include Oil companies, Oil Terminals and the Chemical Distribution Institute (CDI)</p>
+                To establish and maintain a Quality system in order to provide customers with the highest level of Marine Consultancy and safety services with mutually acceptable requirements.</p>
+                <p>CG Marine Services is a Marine services and consultancy firm offering for inspections on tankers ( SIRE& CDI), specialized Cargo and offshore Support Vessels ( OVID).</p>
+                <p>We provide marine safety consultant services for Oil Terminal and Oil Majors and ship owners as well.</p>
                 <p>It is imperative that training to seafarer and shore staff is given from time to time to ensure latest knowledge is gained in all aspects of shipping industry. CG Marine conducts Safety Training for company shore base and shipboard as well. Conduct internal and external audit on behalf of the ship owner or ship manager.</p>
 
             </div>

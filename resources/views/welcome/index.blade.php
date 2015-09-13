@@ -79,7 +79,7 @@
                     <p style="font-size: 1.2em"><strong>We are glad to see you and can provide our excellent service to your good company.</strong></p>
                     <p>&nbsp;</p>
                     <p style="font-size: 1.2em">
-                        Your good company is now connected to one of the most reliable partner in Maritime service Industry in Singapore.
+                        Your good company is now connected to one of the most reliable partners in Maritime service Industry in Singapore.
                         Our team managed by professional people with integrity, competency, knowledge and passion for their work.
                         Once our client you will always be with us.
                     </p>
