@@ -39,7 +39,7 @@
                     <li><a href="{{ url('service/consultancy') }}">Consultancy</a></li>
 {{--                    <li><a href="{{ url('service/delivery') }}">Delivery</a></li>--}}
 {{--                    <li><a href="{{ url('service/pilotage') }}">Pilotage</a></li>--}}
-                    <li><a href="{{ url('service/management') }}">Management</a></li>
+                    <li><a href="{{ url('service/management') }}">Equipment</a></li>
                     <li><a href="{{ url('service/repaire') }}">Repair</a></li>
                 </ul>
             </li>

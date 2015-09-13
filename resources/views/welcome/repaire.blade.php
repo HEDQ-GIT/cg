@@ -18,8 +18,8 @@
             <div class="span12" style="color:#777">
                 <p>Service > Repair > </p>
                 <h2 style="color: #0072B2">Repair Servies</h2>
-                <p class="text-justify">&nbsp;&nbsp;CG Marine service also provide our best technical repair service to ships trading is Far East Asia special in Singapore , China, Hong Kong and Indonesia.</p>
-                <p class="text-justify">&nbsp;&nbsp;Such technical service includes normal Main Engine overhauling, fabricating, emergency repairs, electrical trouble shootings and repairs; Deck Machinery repairs and fabricating, Auto control system repairs and other types of repairs.</p>
+                <p class="text-justify">&nbsp;&nbsp;We provide our best technical repair service to ships trading is Far East Asia special in Singapore , China, Hong Kong and Indonesia.</p>
+                <p class="text-justify">&nbsp;&nbsp;Technical service includes normal Main Engine overhauling, fabricating, emergency repairs, electrical trouble shootings and repairs; Deck Machinery repairs and fabricating, Auto control system repairs and other types of repairs.</p>
                 {{--<p style="text-align: justify;">--}}
                     {{--<ul>--}}
                     {{--<li>Repairing projects of offshore engineering</li>--}}

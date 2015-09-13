@@ -5,6 +5,7 @@
     #footer{
         width: 100%;
         background-color: #4A4A4A;
+        margin-top: 10px;
     }
 
     #footer > p{

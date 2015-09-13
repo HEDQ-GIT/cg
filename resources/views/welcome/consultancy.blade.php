@@ -21,10 +21,13 @@
                 <p>Service > Consultancy > </p>
                 <h2 class="text-justify">Maritime Consultancy</h2>
                 {{--<p style="text-align: justify;">Our new building projects are manned by a well-rounded team comprising of Marine Engineers, Naval Architects, Production Engineers, Electrical Engineers and Senior Ship Officers, with both ship building and operational experience for various vessel types thus ensuring that vessels are built not only to suit commercial requirements but also to ensure operational practicality</p>--}}
-                <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;CG Marine provide safety consultancy for the marine industries in various areas;</p>
-                <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;Establishing and creating an safety management system for the shipping company; this Safety management systems provide a framework for minimizing such dangers at every level of an organization; meets the ISM & ISPS code and MLC 2006 convention requirement.</p>
-                <p class="text-justify">&nbsp;&nbsp;&nbsp;Providing a safety consultancy service for Oil terminal; by reviewing their operational manual and implementing a necessary sections or control procures and preventive measures to fulfil their clients requirement and also.</p>
-                <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;Conduct training services for shore base and shipboard as well. Our training adheres to maritime industry standards, helping clients maintain a heightened awareness of safety culture and environmental concerns.</p>
+                <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;We provide Marine safety consultancy for the entire marine industries in various areas;</p>
+                <ul>
+                    <li>1.	Oil Terminals</li>
+                    <li>2.	Port / terminal development </li>
+                    <li>3.	Company internal and External Audits</li>
+                    <li>4.	Tanker company TMSA development and management </li>
+                </ul>
             </div>
         </div>
     </div>
