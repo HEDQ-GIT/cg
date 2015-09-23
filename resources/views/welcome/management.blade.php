@@ -30,7 +30,7 @@
                 <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;We have been a provider of instrument calibration and repair services. Each of our highly trained technicians has extensive experience in calibration and instrument repair.</p>
                 <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We are dedicated to provide the best calibration services to following equipment:</p>
                 <ul>
-                <li>1.	Temperature gauge calibration ( 00- 5000  C) ( Digital , liquid-in-glass)</li>
+                <li>1.	Temperature gauge calibration ( 0&#176;- 500&#176; C) ( Digital , liquid-in-glass)</li>
                 <li>2.	Pressure Gauge calibration </li>
                 <li>3.	MMC UTI Calibration</li>
                 </ul><br>
